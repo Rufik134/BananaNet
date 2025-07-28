@@ -110,22 +110,29 @@ pip install -r requirements.txt
 
 > **Note:** We pin `numpy<2.0` until PyTorch fully supports NumPy 2.x.
 
-### 2. Start the Flask server
+### 2. Train the model
 
 ```bash
-python server.py  # or on Windows: python server.py
+python train.py
 ```
 
-Point your browser to `http://127.0.0.1:5000/` to access the web UI.\
-Upload a banana image, click **Analyze Banana**, and see ripeness & TTL.
+This will split 80/20, train for 10 epochs, evaluate metrics, and save the model as `banana_model.pth`.
 
-### 3. Command‑line Prediction (optional)
+### 3. Start the Flask server
+
+```bash
+python server.py
+```
+
+After launch, the console will show a URL (e.g. `http://127.0.0.1:5000/` or `http://0.0.0.0:5000/`). Open that in your browser to access the web UI.
+
+### 4. Command-line Prediction (optional)
 
 ```bash
 python predict.py --image path_to_image.jpg
 ```
 
-### 4. Optional
+### 5. Optional
 If you use python3 and pip3 instead of 
 ```bash
 pip install -r requirements.txt
