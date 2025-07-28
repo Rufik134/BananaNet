@@ -1,0 +1,11 @@
+# Python virtual environments
+.venv/
+banana-env/
+
+# PyTorch build artifacts, caches, etc.
+__pycache__/
+*.py[cod]
+*.so
+
+# Model weights 
+*.pth

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Banana Ripeness Inspector</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🍌 Banana Ripeness Inspector</h1>
+        
+        <div class="upload-box">
+            <label for="fileInput" class="file-upload-btn">
+                📁 Select Banana Image
+                <input type="file" id="fileInput" accept="image/*" style="display:none;">
+            </label>
+            <button id="analyzeBtn">Analyze Banana</button>
+        </div>
+        
+        <p id="fileInfo">No file selected</p>
+        <div id="imagePreview"></div>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        // Show selected filename
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const fileName = e.target.files[0]?.name || "No file selected";
+            document.getElementById('fileInfo').textContent = fileName;
+        });
+
+        // Handle analysis
+        document.getElementById('analyzeBtn').addEventListener('click', async () => {
+            const file = document.getElementById('fileInput').files[0];
+            if (!file) {
+                alert("Please select an image first");
+                return;
+            }
+            
+            const btn = document.getElementById('analyzeBtn');
+            btn.disabled = true;
+            btn.textContent = "Analyzing...";
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await response.json();
+                
+                if (data.success) {
+                    document.getElementById('result').innerHTML = `
+                        <div class="result-box">
+                            <h3>Results</h3>
+                            <p>🍌 <b>Ripeness:</b> ${data.class}</p>
+                            <p>🕒 <b>TTL:</b> ${data.ttl.toFixed(1)} days</p>
+                        </div>
+                    `;
+                    
+                    // Show image preview
+                    const reader = new FileReader();
+                    reader.onload = (e) => {
+                        document.getElementById('imagePreview').innerHTML = 
+                            `<img src="${e.target.result}" alt="Banana Preview">`;
+                    };
+                    reader.readAsDataURL(file);
+                } else {
+                    document.getElementById('result').innerHTML = 
+                        `<p class="error">Error: ${data.error}</p>`;
+                }
+            } catch (error) {
+                document.getElementById('result').innerHTML = 
+                    `<p class="error">Error: ${error.message}</p>`;
+            } finally {
+                btn.disabled = false;
+                btn.textContent = "Analyze Banana";
+            }
+        });
+    </script>
+</body>
+</html>

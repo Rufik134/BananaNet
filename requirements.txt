@@ -1,0 +1,16 @@
+# Core API/UI
+flask>=3.0,<4
+
+# DL stack (works on Mac M1 with MPS)
+torch==2.3.1
+torchvision==0.18.1
+
+# Image + data utils
+pillow>=10.0,<11
+numpy>=1.26,<2
+
+# Training-time extras
+pandas>=2.2,<3
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+tqdm>=4.66,<5

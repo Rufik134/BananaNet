@@ -1,0 +1,3496 @@
+image_path,ripeness_class,estimated_day,ttl_days_left
+train/Class B/374.png,Class B,7,21
+train/Class B/360.png,Class B,8,20
+train/Class B/406.png,Class B,13,15
+train/Class B/533 (2).png,Class B,8,20
+train/Class B/8009 (2).png,Class B,10,18
+train/Class B/88.png,Class B,11,17
+train/Class B/7057 (2).png,Class B,10,18
+train/Class B/7130.png,Class B,8,20
+train/Class B/8203.png,Class B,9,19
+train/Class B/8103 (2).png,Class B,9,19
+train/Class B/228.png,Class B,13,15
+train/Class B/566.png,Class B,13,15
+train/Class B/551 (2).png,Class B,11,17
+train/Class B/439 (2).png,Class B,8,20
+train/Class B/214.png,Class B,14,14
+train/Class B/8029.png,Class B,12,16
+train/Class B/8001.png,Class B,10,18
+train/Class B/8000.png,Class B,9,19
+train/Class B/598.png,Class B,7,21
+train/Class B/8028.png,Class B,14,14
+train/Class B/215.png,Class B,8,20
+train/Class B/573.png,Class B,13,15
+train/Class B/7131.png,Class B,12,16
+train/Class B/7125.png,Class B,10,18
+train/Class B/359 (2).png,Class B,13,15
+train/Class B/349 (2).png,Class B,10,18
+train/Class B/7051.png,Class B,8,20
+train/Class B/62.png,Class B,11,17
+train/Class B/76.png,Class B,9,19
+train/Class B/7092.png,Class B,9,19
+train/Class B/8185 (2).png,Class B,14,14
+train/Class B/8148.png,Class B,7,21
+train/Class B/361.png,Class B,7,21
+train/Class B/407.png,Class B,10,18
+train/Class B/7100 (2).png,Class B,11,17
+train/Class B/439.png,Class B,8,20
+train/Class B/405.png,Class B,10,18
+train/Class B/388.png,Class B,13,15
+train/Class B/8162.png,Class B,14,14
+train/Class B/48 (2).png,Class B,7,21
+train/Class B/275 (2).png,Class B,9,19
+train/Class B/149.png,Class B,12,16
+train/Class B/60.png,Class B,10,18
+train/Class B/74.png,Class B,14,14
+train/Class B/48.png,Class B,7,21
+train/Class B/7053.png,Class B,7,21
+train/Class B/93 (2).png,Class B,7,21
+train/Class B/968.png,Class B,10,18
+train/Class B/8178 (2).png,Class B,9,19
+train/Class B/8000 (2).png,Class B,14,14
+train/Class B/7127.png,Class B,8,20
+train/Class B/571.png,Class B,12,16
+train/Class B/217.png,Class B,11,17
+train/Class B/8003.png,Class B,7,21
+train/Class B/564.png,Class B,9,19
+train/Class B/216.png,Class B,9,19
+train/Class B/7126.png,Class B,7,21
+train/Class B/195 (2).png,Class B,9,19
+train/Class B/49.png,Class B,7,21
+train/Class B/7052.png,Class B,7,21
+train/Class B/75.png,Class B,14,14
+train/Class B/148.png,Class B,13,15
+train/Class B/8163.png,Class B,13,15
+train/Class B/389.png,Class B,13,15
+train/Class B/8147 (2).png,Class B,13,15
+train/Class B/376.png,Class B,11,17
+train/Class B/404.png,Class B,7,21
+train/Class B/414.png,Class B,13,15
+train/Class B/372.png,Class B,9,19
+train/Class B/264 (2).png,Class B,13,15
+train/Class B/8167.png,Class B,11,17
+train/Class B/399.png,Class B,10,18
+train/Class B/7081.png,Class B,10,18
+train/Class B/7095.png,Class B,14,14
+train/Class B/170.png,Class B,10,18
+train/Class B/616.png,Class B,9,19
+train/Class B/59.png,Class B,10,18
+train/Class B/7042.png,Class B,13,15
+train/Class B/7056.png,Class B,9,19
+train/Class B/71.png,Class B,10,18
+train/Class B/206.png,Class B,7,21
+train/Class B/548.png,Class B,12,16
+train/Class B/170 (2).png,Class B,11,17
+train/Class B/8007.png,Class B,10,18
+train/Class B/453 (2).png,Class B,11,17
+train/Class B/7 (2).png,Class B,12,16
+train/Class B/66 (2).png,Class B,7,21
+train/Class B/7060 (2).png,Class B,14,14
+train/Class B/561.png,Class B,8,20
+train/Class B/207.png,Class B,8,20
+train/Class B/575.png,Class B,8,20
+train/Class B/8204.png,Class B,14,14
+train/Class B/64.png,Class B,14,14
+train/Class B/7057.png,Class B,12,16
+train/Class B/58.png,Class B,9,19
+train/Class B/7094.png,Class B,9,19
+train/Class B/165.png,Class B,10,18
+train/Class B/7080.png,Class B,8,20
+train/Class B/398.png,Class B,13,15
+train/Class B/8097 (2).png,Class B,7,21
+train/Class B/280 (2).png,Class B,7,21
+train/Class B/373.png,Class B,11,17
+train/Class B/371.png,Class B,13,15
+train/Class B/359.png,Class B,7,21
+train/Class B/8164.png,Class B,8,20
+train/Class B/7096.png,Class B,9,19
+train/Class B/167.png,Class B,12,16
+train/Class B/99.png,Class B,7,21
+train/Class B/169 (2).png,Class B,10,18
+train/Class B/7055.png,Class B,7,21
+train/Class B/7041.png,Class B,13,15
+train/Class B/522 (2).png,Class B,7,21
+train/Class B/72.png,Class B,13,15
+train/Class B/66.png,Class B,11,17
+train/Class B/8112 (2).png,Class B,12,16
+train/Class B/563.png,Class B,13,15
+train/Class B/211.png,Class B,9,19
+train/Class B/239.png,Class B,10,18
+train/Class B/50 (2).png,Class B,8,20
+train/Class B/491 (2).png,Class B,10,18
+train/Class B/588.png,Class B,13,15
+train/Class B/358 (2).png,Class B,10,18
+train/Class B/465 (2).png,Class B,14,14
+train/Class B/238.png,Class B,7,21
+train/Class B/7134.png,Class B,8,20
+train/Class B/67.png,Class B,8,20
+train/Class B/73.png,Class B,13,15
+train/Class B/7040.png,Class B,9,19
+train/Class B/166.png,Class B,8,20
+train/Class B/7097.png,Class B,10,18
+train/Class B/8165.png,Class B,10,18
+train/Class B/358.png,Class B,10,18
+train/Class B/370.png,Class B,10,18
+train/Class B/459.png,Class B,14,14
+train/Class B/317.png,Class B,9,19
+train/Class B/465.png,Class B,14,14
+train/Class B/8116.png,Class B,12,16
+train/Class B/80 (2).png,Class B,8,20
+train/Class B/129.png,Class B,8,20
+train/Class B/115.png,Class B,7,21
+train/Class B/101.png,Class B,7,21
+train/Class B/667.png,Class B,13,15
+train/Class B/276 (2).png,Class B,8,20
+train/Class B/7147.png,Class B,9,19
+train/Class B/263.png,Class B,12,16
+train/Class B/277.png,Class B,9,19
+train/Class B/8076.png,Class B,9,19
+train/Class B/8062.png,Class B,12,16
+train/Class B/276.png,Class B,12,16
+train/Class B/353 (2).png,Class B,9,19
+train/Class B/7032.png,Class B,8,20
+train/Class B/186 (2).png,Class B,7,21
+train/Class B/398 (2).png,Class B,10,18
+train/Class B/114.png,Class B,14,14
+train/Class B/8103.png,Class B,7,21
+train/Class B/464.png,Class B,12,16
+train/Class B/328.png,Class B,11,17
+train/Class B/300.png,Class B,14,14
+train/Class B/119 (2).png,Class B,11,17
+train/Class B/314.png,Class B,12,16
+train/Class B/8068 (2).png,Class B,9,19
+train/Class B/8129.png,Class B,12,16
+train/Class B/317 (2).png,Class B,7,21
+train/Class B/102.png,Class B,12,16
+train/Class B/52 (2).png,Class B,11,17
+train/Class B/17.png,Class B,14,14
+train/Class B/248.png,Class B,11,17
+train/Class B/512.png,Class B,13,15
+train/Class B/8162 (2).png,Class B,10,18
+train/Class B/8049.png,Class B,7,21
+train/Class B/8048.png,Class B,11,17
+train/Class B/275.png,Class B,8,20
+train/Class B/7145.png,Class B,11,17
+train/Class B/8047 (2).png,Class B,13,15
+train/Class B/16.png,Class B,7,21
+train/Class B/117.png,Class B,12,16
+train/Class B/103.png,Class B,8,20
+train/Class B/8114.png,Class B,8,20
+train/Class B/7161 (2).png,Class B,11,17
+train/Class B/315.png,Class B,14,14
+train/Class B/301.png,Class B,11,17
+train/Class B/7009 (2).png,Class B,11,17
+train/Class B/7171 (2).png,Class B,7,21
+train/Class B/482 (2).png,Class B,14,14
+train/Class B/492 (2).png,Class B,10,18
+train/Class B/43 (2).png,Class B,11,17
+train/Class B/477.png,Class B,12,16
+train/Class B/8104.png,Class B,11,17
+train/Class B/8138.png,Class B,12,16
+train/Class B/113.png,Class B,10,18
+train/Class B/7021.png,Class B,10,18
+train/Class B/7035.png,Class B,12,16
+train/Class B/459 (2).png,Class B,8,20
+train/Class B/449 (2).png,Class B,10,18
+train/Class B/531 (2).png,Class B,11,17
+train/Class B/7141.png,Class B,11,17
+train/Class B/265.png,Class B,9,19
+train/Class B/8064.png,Class B,10,18
+train/Class B/8070.png,Class B,12,16
+train/Class B/21 (2).png,Class B,11,17
+train/Class B/8065.png,Class B,12,16
+train/Class B/137 (2).png,Class B,9,19
+train/Class B/264.png,Class B,8,20
+train/Class B/516.png,Class B,10,18
+train/Class B/390 (2).png,Class B,12,16
+train/Class B/13.png,Class B,12,16
+train/Class B/8139.png,Class B,13,15
+train/Class B/8105.png,Class B,11,17
+train/Class B/233 (2).png,Class B,10,18
+train/Class B/466 (2).png,Class B,7,21
+train/Class B/310.png,Class B,11,17
+train/Class B/476.png,Class B,9,19
+train/Class B/462.png,Class B,9,19
+train/Class B/474.png,Class B,12,16
+train/Class B/306.png,Class B,7,21
+train/Class B/448.png,Class B,9,19
+train/Class B/104.png,Class B,9,19
+train/Class B/7036.png,Class B,8,20
+train/Class B/39.png,Class B,7,21
+train/Class B/7156.png,Class B,8,20
+train/Class B/266.png,Class B,11,17
+train/Class B/101 (2).png,Class B,9,19
+train/Class B/277 (2).png,Class B,7,21
+train/Class B/267 (2).png,Class B,13,15
+train/Class B/8066.png,Class B,8,20
+train/Class B/8099.png,Class B,11,17
+train/Class B/515.png,Class B,9,19
+train/Class B/267.png,Class B,10,18
+train/Class B/7157.png,Class B,11,17
+train/Class B/7143.png,Class B,13,15
+train/Class B/7037.png,Class B,9,19
+train/Class B/139.png,Class B,7,21
+train/Class B/105.png,Class B,12,16
+train/Class B/449.png,Class B,12,16
+train/Class B/461.png,Class B,13,15
+train/Class B/475.png,Class B,14,14
+train/Class B/336.png,Class B,13,15
+train/Class B/296 (2).png,Class B,11,17
+train/Class B/8123.png,Class B,9,19
+train/Class B/357 (2).png,Class B,14,14
+train/Class B/134.png,Class B,7,21
+train/Class B/21.png,Class B,8,20
+train/Class B/335 (2).png,Class B,13,15
+train/Class B/518.png,Class B,14,14
+train/Class B/8080.png,Class B,9,19
+train/Class B/8043.png,Class B,12,16
+train/Class B/166 (2).png,Class B,12,16
+train/Class B/7092 (2).png,Class B,8,20
+train/Class B/8081.png,Class B,11,17
+train/Class B/519.png,Class B,9,19
+train/Class B/94 (2).png,Class B,14,14
+train/Class B/7173.png,Class B,7,21
+train/Class B/7143 (2).png,Class B,9,19
+train/Class B/34.png,Class B,7,21
+train/Class B/427 (2).png,Class B,9,19
+train/Class B/492.png,Class B,10,18
+train/Class B/309.png,Class B,12,16
+train/Class B/447.png,Class B,11,17
+train/Class B/453.png,Class B,7,21
+train/Class B/335.png,Class B,10,18
+train/Class B/484.png,Class B,14,14
+train/Class B/490.png,Class B,11,17
+train/Class B/385 (2).png,Class B,9,19
+train/Class B/137.png,Class B,11,17
+train/Class B/22.png,Class B,10,18
+train/Class B/7039.png,Class B,8,20
+train/Class B/36.png,Class B,9,19
+train/Class B/7005.png,Class B,14,14
+train/Class B/8088 (2).png,Class B,7,21
+train/Class B/7159.png,Class B,9,19
+train/Class B/7171.png,Class B,12,16
+train/Class B/8021 (2).png,Class B,10,18
+train/Class B/255.png,Class B,9,19
+train/Class B/533.png,Class B,12,16
+train/Class B/8097.png,Class B,10,18
+train/Class B/8068.png,Class B,8,20
+train/Class B/296.png,Class B,9,19
+train/Class B/297.png,Class B,12,16
+train/Class B/8069.png,Class B,7,21
+train/Class B/8082.png,Class B,12,16
+train/Class B/532.png,Class B,12,16
+train/Class B/7164.png,Class B,13,15
+train/Class B/7170.png,Class B,8,20
+train/Class B/7158.png,Class B,9,19
+train/Class B/7004.png,Class B,9,19
+train/Class B/122.png,Class B,7,21
+train/Class B/491.png,Class B,9,19
+train/Class B/8121.png,Class B,11,17
+train/Class B/34 (2).png,Class B,14,14
+train/Class B/452.png,Class B,14,14
+train/Class B/334.png,Class B,7,21
+train/Class B/446.png,Class B,11,17
+train/Class B/308.png,Class B,11,17
+train/Class B/481.png,Class B,9,19
+train/Class B/8125.png,Class B,10,18
+train/Class B/495.png,Class B,7,21
+train/Class B/7106 (2).png,Class B,13,15
+train/Class B/245 (2).png,Class B,13,15
+train/Class B/7014.png,Class B,10,18
+train/Class B/33.png,Class B,12,16
+train/Class B/151 (2).png,Class B,14,14
+train/Class B/7160.png,Class B,9,19
+train/Class B/536.png,Class B,11,17
+train/Class B/8086.png,Class B,12,16
+train/Class B/250.png,Class B,9,19
+train/Class B/522.png,Class B,14,14
+train/Class B/278.png,Class B,13,15
+train/Class B/293.png,Class B,12,16
+train/Class B/8045.png,Class B,9,19
+train/Class B/8079.png,Class B,14,14
+train/Class B/8105 (2).png,Class B,10,18
+train/Class B/245.png,Class B,12,16
+train/Class B/523.png,Class B,11,17
+train/Class B/537.png,Class B,11,17
+train/Class B/251.png,Class B,11,17
+train/Class B/7161.png,Class B,11,17
+train/Class B/7175.png,Class B,8,20
+train/Class B/32.png,Class B,10,18
+train/Class B/7015.png,Class B,8,20
+train/Class B/133.png,Class B,11,17
+train/Class B/494.png,Class B,9,19
+train/Class B/480.png,Class B,11,17
+train/Class B/535 (2).png,Class B,8,20
+train/Class B/208 (2).png,Class B,14,14
+train/Class B/360 (2).png,Class B,13,15
+train/Class B/327.png,Class B,8,20
+train/Class B/441.png,Class B,11,17
+train/Class B/496.png,Class B,13,15
+train/Class B/8126.png,Class B,9,19
+train/Class B/148 (2).png,Class B,12,16
+train/Class B/482.png,Class B,7,21
+train/Class B/131.png,Class B,9,19
+train/Class B/7015 (2).png,Class B,10,18
+train/Class B/119.png,Class B,10,18
+train/Class B/7017.png,Class B,10,18
+train/Class B/18.png,Class B,8,20
+train/Class B/7003.png,Class B,14,14
+train/Class B/7177.png,Class B,12,16
+train/Class B/8085.png,Class B,14,14
+train/Class B/253.png,Class B,7,21
+train/Class B/535.png,Class B,11,17
+train/Class B/8123 (2).png,Class B,11,17
+train/Class B/8052.png,Class B,11,17
+train/Class B/290.png,Class B,14,14
+train/Class B/561 (2).png,Class B,12,16
+train/Class B/8047.png,Class B,9,19
+train/Class B/8053.png,Class B,7,21
+train/Class B/8084.png,Class B,8,20
+train/Class B/534.png,Class B,13,15
+train/Class B/246.png,Class B,10,18
+train/Class B/7176.png,Class B,9,19
+train/Class B/369 (2).png,Class B,10,18
+train/Class B/273 (2).png,Class B,7,21
+train/Class B/19.png,Class B,10,18
+train/Class B/7002.png,Class B,7,21
+train/Class B/7016.png,Class B,7,21
+train/Class B/118.png,Class B,13,15
+train/Class B/130.png,Class B,14,14
+train/Class B/326.png,Class B,14,14
+train/Class B/454.png,Class B,9,19
+train/Class B/433.png,Class B,10,18
+train/Class B/427.png,Class B,9,19
+train/Class B/153 (2).png,Class B,14,14
+train/Class B/8168.png,Class B,14,14
+train/Class B/8140.png,Class B,11,17
+train/Class B/619.png,Class B,12,16
+train/Class B/194.png,Class B,9,19
+train/Class B/7176 (2).png,Class B,14,14
+train/Class B/7139.png,Class B,8,20
+train/Class B/7105.png,Class B,11,17
+train/Class B/7111.png,Class B,13,15
+train/Class B/547.png,Class B,11,17
+train/Class B/8008.png,Class B,9,19
+train/Class B/590.png,Class B,8,20
+train/Class B/8021.png,Class B,7,21
+train/Class B/591.png,Class B,10,18
+train/Class B/7021 (2).png,Class B,7,21
+train/Class B/7159 (2).png,Class B,7,21
+train/Class B/8009.png,Class B,11,17
+train/Class B/234.png,Class B,12,16
+train/Class B/552.png,Class B,7,21
+train/Class B/546.png,Class B,8,20
+train/Class B/7110.png,Class B,9,19
+train/Class B/8165 (2).png,Class B,10,18
+train/Class B/7138.png,Class B,12,16
+train/Class B/8203 (2).png,Class B,9,19
+train/Class B/7070.png,Class B,7,21
+train/Class B/195.png,Class B,13,15
+train/Class B/5.png,Class B,8,20
+train/Class B/310 (2).png,Class B,11,17
+train/Class B/94.png,Class B,14,14
+train/Class B/397.png,Class B,10,18
+train/Class B/8169.png,Class B,13,15
+train/Class B/418.png,Class B,14,14
+train/Class B/424.png,Class B,13,15
+train/Class B/342.png,Class B,10,18
+train/Class B/2 (2).png,Class B,8,20
+train/Class B/8188 (2).png,Class B,9,19
+train/Class B/8143.png,Class B,14,14
+train/Class B/41.png,Class B,7,21
+train/Class B/7.png,Class B,13,15
+train/Class B/7072.png,Class B,12,16
+train/Class B/8143 (2).png,Class B,10,18
+train/Class B/7112.png,Class B,13,15
+train/Class B/7106.png,Class B,10,18
+train/Class B/550.png,Class B,13,15
+train/Class B/593.png,Class B,13,15
+train/Class B/8023.png,Class B,12,16
+train/Class B/586.png,Class B,10,18
+train/Class B/223.png,Class B,13,15
+train/Class B/545.png,Class B,11,17
+train/Class B/434 (2).png,Class B,12,16
+train/Class B/551.png,Class B,13,15
+train/Class B/237.png,Class B,13,15
+train/Class B/7107.png,Class B,8,20
+train/Class B/7073.png,Class B,13,15
+train/Class B/182.png,Class B,11,17
+train/Class B/141.png,Class B,11,17
+train/Class B/169.png,Class B,14,14
+train/Class B/7098.png,Class B,12,16
+train/Class B/425.png,Class B,10,18
+train/Class B/419.png,Class B,12,16
+train/Class B/421.png,Class B,11,17
+train/Class B/435.png,Class B,14,14
+train/Class B/353.png,Class B,14,14
+train/Class B/8185.png,Class B,7,21
+train/Class B/327 (2).png,Class B,12,16
+train/Class B/384.png,Class B,14,14
+train/Class B/151.png,Class B,8,20
+train/Class B/87.png,Class B,12,16
+train/Class B/93.png,Class B,9,19
+train/Class B/78.png,Class B,7,21
+train/Class B/186.png,Class B,11,17
+train/Class B/2.png,Class B,13,15
+train/Class B/50.png,Class B,12,16
+train/Class B/7016 (2).png,Class B,12,16
+train/Class B/233.png,Class B,9,19
+train/Class B/8026.png,Class B,12,16
+train/Class B/583.png,Class B,14,14
+train/Class B/8027.png,Class B,11,17
+train/Class B/597.png,Class B,13,15
+train/Class B/568.png,Class B,7,21
+train/Class B/7133 (2).png,Class B,10,18
+train/Class B/106 (2).png,Class B,8,20
+train/Class B/3.png,Class B,10,18
+train/Class B/51.png,Class B,9,19
+train/Class B/7076.png,Class B,13,15
+train/Class B/79.png,Class B,11,17
+train/Class B/92.png,Class B,12,16
+train/Class B/150.png,Class B,12,16
+train/Class B/8147.png,Class B,14,14
+train/Class B/385.png,Class B,9,19
+train/Class B/434.png,Class B,8,20
+train/Class B/8184.png,Class B,14,14
+train/Class B/352.png,Class B,13,15
+train/Class B/346.png,Class B,9,19
+train/Class B/350.png,Class B,12,16
+train/Class B/8186.png,Class B,11,17
+train/Class B/436.png,Class B,8,20
+train/Class B/344.png,Class B,14,14
+train/Class B/378.png,Class B,7,21
+train/Class B/387.png,Class B,9,19
+train/Class B/152.png,Class B,11,17
+train/Class B/191.png,Class B,14,14
+train/Class B/7074.png,Class B,8,20
+train/Class B/1.png,Class B,9,19
+train/Class B/8023 (2).png,Class B,8,20
+train/Class B/47.png,Class B,8,20
+train/Class B/7100.png,Class B,8,20
+train/Class B/7128.png,Class B,8,20
+train/Class B/224.png,Class B,13,15
+train/Class B/7115 (2).png,Class B,13,15
+train/Class B/199 (2).png,Class B,10,18
+train/Class B/387 (2).png,Class B,8,20
+train/Class B/373 (2).png,Class B,9,19
+train/Class B/8024.png,Class B,9,19
+train/Class B/7129.png,Class B,14,14
+train/Class B/7148 (2).png,Class B,7,21
+train/Class B/7049.png,Class B,13,15
+train/Class B/0.png,Class B,9,19
+train/Class B/7075.png,Class B,10,18
+train/Class B/190.png,Class B,8,20
+train/Class B/91.png,Class B,13,15
+train/Class B/8178.png,Class B,10,18
+train/Class B/269 (2).png,Class B,13,15
+train/Class B/301 (2).png,Class B,13,15
+train/Class B/423.png,Class B,7,21
+train/Class B/345.png,Class B,12,16
+train/Class B/8187.png,Class B,7,21
+train/Class D/348.png,Class D,25,3
+train/Class D/9148 (2).png,Class D,27,1
+train/Class D/360.png,Class D,27,1
+train/Class D/9082.png,Class D,24,4
+train/Class D/9096.png,Class D,24,4
+train/Class D/77.png,Class D,23,5
+train/Class D/63.png,Class D,24,4
+train/Class D/9121.png,Class D,23,5
+train/Class D/9109.png,Class D,25,3
+train/Class D/228.png,Class D,28,0
+train/Class D/572.png,Class D,24,4
+train/Class D/598.png,Class D,28,0
+train/Class D/201.png,Class D,24,4
+train/Class D/229.png,Class D,25,3
+train/Class D/9108.png,Class D,27,1
+train/Class D/9120.png,Class D,26,2
+train/Class D/349 (2).png,Class D,28,0
+train/Class D/157 (2).png,Class D,23,5
+train/Class D/9068.png,Class D,28,0
+train/Class D/9040.png,Class D,25,3
+train/Class D/177.png,Class D,28,0
+train/Class D/611.png,Class D,25,3
+train/Class D/89.png,Class D,23,5
+train/Class D/8160.png,Class D,27,1
+train/Class D/361.png,Class D,25,3
+train/Class D/349.png,Class D,23,5
+train/Class D/439.png,Class D,25,3
+train/Class D/411.png,Class D,27,1
+train/Class D/8176.png,Class D,26,2
+train/Class D/265 (2).png,Class D,27,1
+train/Class D/9095.png,Class D,26,2
+train/Class D/9081.png,Class D,25,3
+train/Class D/558 (2).png,Class D,26,2
+train/Class D/9133 (2).png,Class D,25,3
+train/Class D/514 (3).png,Class D,27,1
+train/Class D/9039 (2).png,Class D,23,5
+train/Class D/217.png,Class D,26,2
+train/Class D/203.png,Class D,23,5
+train/Class D/9080 (2).png,Class D,28,0
+train/Class D/216.png,Class D,27,1
+train/Class D/9057.png,Class D,23,5
+train/Class D/174.png,Class D,25,3
+train/Class D/9080.png,Class D,23,5
+train/Class D/8163.png,Class D,26,2
+train/Class D/404.png,Class D,23,5
+train/Class D/362.png,Class D,26,2
+train/Class D/366.png,Class D,25,3
+train/Class D/400.png,Class D,23,5
+train/Class D/399.png,Class D,25,3
+train/Class D/9122 (2).png,Class D,24,4
+train/Class D/602.png,Class D,28,0
+train/Class D/170.png,Class D,28,0
+train/Class D/158.png,Class D,24,4
+train/Class D/9084.png,Class D,25,3
+train/Class D/59.png,Class D,23,5
+train/Class D/65.png,Class D,27,1
+train/Class D/9047.png,Class D,28,0
+train/Class D/9081 (2).png,Class D,28,0
+train/Class D/9133.png,Class D,25,3
+train/Class D/574.png,Class D,28,0
+train/Class D/9028 (2).png,Class D,26,2
+train/Class D/9150 (2).png,Class D,25,3
+train/Class D/548.png,Class D,27,1
+train/Class D/9046.png,Class D,25,3
+train/Class D/64.png,Class D,23,5
+train/Class D/58.png,Class D,23,5
+train/Class D/514 (2).png,Class D,25,3
+train/Class D/9017 (2).png,Class D,27,1
+train/Class D/603.png,Class D,25,3
+train/Class D/367.png,Class D,26,2
+train/Class D/401.png,Class D,28,0
+train/Class D/403.png,Class D,27,1
+train/Class D/359.png,Class D,27,1
+train/Class D/9098 (2).png,Class D,27,1
+train/Class D/8164.png,Class D,28,0
+train/Class D/8158.png,Class D,25,3
+train/Class D/9159 (2).png,Class D,27,1
+train/Class D/167.png,Class D,25,3
+train/Class D/99.png,Class D,26,2
+train/Class D/9093.png,Class D,25,3
+train/Class D/8.png,Class D,26,2
+train/Class D/72.png,Class D,25,3
+train/Class D/9050.png,Class D,27,1
+train/Class D/198.png,Class D,26,2
+train/Class D/9118.png,Class D,27,1
+train/Class D/9130.png,Class D,26,2
+train/Class D/205.png,Class D,26,2
+train/Class D/577.png,Class D,24,4
+train/Class D/9182 (2).png,Class D,26,2
+train/Class D/576.png,Class D,24,4
+train/Class D/156 (2).png,Class D,25,3
+train/Class D/204.png,Class D,28,0
+train/Class D/953.png,Class D,26,2
+train/Class D/9119.png,Class D,24,4
+train/Class D/199.png,Class D,26,2
+train/Class D/67.png,Class D,25,3
+train/Class D/9.png,Class D,26,2
+train/Class D/9086.png,Class D,26,2
+train/Class D/172.png,Class D,23,5
+train/Class D/358.png,Class D,27,1
+train/Class D/402.png,Class D,28,0
+train/Class D/364.png,Class D,25,3
+train/Class D/9093 (2).png,Class D,27,1
+train/Class D/303.png,Class D,26,2
+train/Class D/8102.png,Class D,28,0
+train/Class D/101.png,Class D,25,3
+train/Class D/9036.png,Class D,23,5
+train/Class D/28.png,Class D,27,1
+train/Class D/9152 (2).png,Class D,28,0
+train/Class D/9142 (2).png,Class D,24,4
+train/Class D/9195.png,Class D,26,2
+train/Class D/9181.png,Class D,26,2
+train/Class D/9120 (2).png,Class D,27,1
+train/Class D/9142.png,Class D,27,1
+train/Class D/423 (2).png,Class D,28,0
+train/Class D/263.png,Class D,24,4
+train/Class D/288.png,Class D,28,0
+train/Class D/8077.png,Class D,23,5
+train/Class D/9015 (2).png,Class D,23,5
+train/Class D/9005 (2).png,Class D,28,0
+train/Class D/510.png,Class D,27,1
+train/Class D/262.png,Class D,25,3
+train/Class D/9143.png,Class D,26,2
+train/Class D/9194.png,Class D,28,0
+train/Class D/9037.png,Class D,25,3
+train/Class D/9023.png,Class D,28,0
+train/Class D/100.png,Class D,26,2
+train/Class D/388 (2).png,Class D,27,1
+train/Class D/114.png,Class D,28,0
+train/Class D/128.png,Class D,25,3
+train/Class D/464.png,Class D,26,2
+train/Class D/9129 (2).png,Class D,23,5
+train/Class D/9139 (2).png,Class D,26,2
+train/Class D/328.png,Class D,24,4
+train/Class D/466.png,Class D,26,2
+train/Class D/472.png,Class D,25,3
+train/Class D/314.png,Class D,24,4
+train/Class D/116.png,Class D,25,3
+train/Class D/9035.png,Class D,26,2
+train/Class D/17.png,Class D,25,3
+train/Class D/9182.png,Class D,28,0
+train/Class D/9196.png,Class D,24,4
+train/Class D/512.png,Class D,26,2
+train/Class D/8074.png,Class D,25,3
+train/Class D/261.png,Class D,24,4
+train/Class D/328 (2).png,Class D,28,0
+train/Class D/9140.png,Class D,26,2
+train/Class D/9183.png,Class D,23,5
+train/Class D/9174 (2).png,Class D,25,3
+train/Class D/117.png,Class D,23,5
+train/Class D/103.png,Class D,28,0
+train/Class D/498.png,Class D,24,4
+train/Class D/467.png,Class D,23,5
+train/Class D/329.png,Class D,24,4
+train/Class D/477.png,Class D,27,1
+train/Class D/488.png,Class D,24,4
+train/Class D/107.png,Class D,24,4
+train/Class D/113.png,Class D,24,4
+train/Class D/9128 (2).png,Class D,27,1
+train/Class D/9050 (2).png,Class D,27,1
+train/Class D/9018.png,Class D,28,0
+train/Class D/12.png,Class D,24,4
+train/Class D/9024.png,Class D,23,5
+train/Class D/9193.png,Class D,23,5
+train/Class D/9150.png,Class D,23,5
+train/Class D/517.png,Class D,25,3
+train/Class D/265.png,Class D,26,2
+train/Class D/259.png,Class D,24,4
+train/Class D/241 (2).png,Class D,25,3
+train/Class D/264.png,Class D,26,2
+train/Class D/516.png,Class D,26,2
+train/Class D/9186.png,Class D,28,0
+train/Class D/13.png,Class D,26,2
+train/Class D/9025.png,Class D,27,1
+train/Class D/106.png,Class D,24,4
+train/Class D/489.png,Class D,28,0
+train/Class D/310.png,Class D,28,0
+train/Class D/476.png,Class D,26,2
+train/Class D/304.png,Class D,23,5
+train/Class D/474.png,Class D,27,1
+train/Class D/312.png,Class D,24,4
+train/Class D/306.png,Class D,24,4
+train/Class D/9143 (2).png,Class D,23,5
+train/Class D/110.png,Class D,26,2
+train/Class D/138.png,Class D,27,1
+train/Class D/39.png,Class D,27,1
+train/Class D/9027.png,Class D,24,4
+train/Class D/9184.png,Class D,23,5
+train/Class D/9198 (2).png,Class D,26,2
+train/Class D/9153.png,Class D,28,0
+train/Class D/500.png,Class D,25,3
+train/Class D/514.png,Class D,25,3
+train/Class D/528.png,Class D,24,4
+train/Class D/9049 (2).png,Class D,26,2
+train/Class D/9152.png,Class D,23,5
+train/Class D/517 (2).png,Class D,23,5
+train/Class D/9026.png,Class D,23,5
+train/Class D/10.png,Class D,27,1
+train/Class D/38.png,Class D,26,2
+train/Class D/139.png,Class D,27,1
+train/Class D/111.png,Class D,28,0
+train/Class D/9076 (2).png,Class D,24,4
+train/Class D/449.png,Class D,28,0
+train/Class D/322.png,Class D,27,1
+train/Class D/493.png,Class D,24,4
+train/Class D/108.png,Class D,24,4
+train/Class D/347 (2).png,Class D,28,0
+train/Class D/134.png,Class D,28,0
+train/Class D/120.png,Class D,27,1
+train/Class D/9003.png,Class D,24,4
+train/Class D/9017.png,Class D,24,4
+train/Class D/21.png,Class D,23,5
+train/Class D/9001 (2).png,Class D,27,1
+train/Class D/9073 (2).png,Class D,24,4
+train/Class D/9163.png,Class D,28,0
+train/Class D/8122 (2).png,Class D,23,5
+train/Class D/530.png,Class D,23,5
+train/Class D/8042.png,Class D,27,1
+train/Class D/280.png,Class D,25,3
+train/Class D/9162.png,Class D,25,3
+train/Class D/9016.png,Class D,23,5
+train/Class D/20.png,Class D,28,0
+train/Class D/34.png,Class D,26,2
+train/Class D/9002.png,Class D,24,4
+train/Class D/135.png,Class D,28,0
+train/Class D/109.png,Class D,26,2
+train/Class D/492.png,Class D,27,1
+train/Class D/445.png,Class D,23,5
+train/Class D/323.png,Class D,23,5
+train/Class D/9134 (2).png,Class D,26,2
+train/Class D/309.png,Class D,24,4
+train/Class D/447.png,Class D,28,0
+train/Class D/335.png,Class D,23,5
+train/Class D/9014.png,Class D,25,3
+train/Class D/9160.png,Class D,24,4
+train/Class D/9174.png,Class D,24,4
+train/Class D/8098 (2).png,Class D,24,4
+train/Class D/9148.png,Class D,28,0
+train/Class D/8159 (2).png,Class D,28,0
+train/Class D/533.png,Class D,24,4
+train/Class D/527.png,Class D,23,5
+train/Class D/241.png,Class D,28,0
+train/Class D/282.png,Class D,24,4
+train/Class D/283.png,Class D,28,0
+train/Class D/9184 (2).png,Class D,24,4
+train/Class D/497 (2).png,Class D,25,3
+train/Class D/526.png,Class D,27,1
+train/Class D/240.png,Class D,25,3
+train/Class D/532.png,Class D,28,0
+train/Class D/268.png,Class D,23,5
+train/Class D/9149.png,Class D,28,0
+train/Class D/9175.png,Class D,24,4
+train/Class D/9161.png,Class D,26,2
+train/Class D/9037 (2).png,Class D,28,0
+train/Class D/9027 (2).png,Class D,28,0
+train/Class D/9001.png,Class D,24,4
+train/Class D/23.png,Class D,25,3
+train/Class D/9015.png,Class D,28,0
+train/Class D/446.png,Class D,25,3
+train/Class D/308.png,Class D,26,2
+train/Class D/442.png,Class D,27,1
+train/Class D/132.png,Class D,23,5
+train/Class D/8042 (2).png,Class D,27,1
+train/Class D/9039.png,Class D,26,2
+train/Class D/9005.png,Class D,27,1
+train/Class D/9159.png,Class D,25,3
+train/Class D/9171 (2).png,Class D,28,0
+train/Class D/9171.png,Class D,26,2
+train/Class D/536.png,Class D,23,5
+train/Class D/8092.png,Class D,25,3
+train/Class D/244.png,Class D,25,3
+train/Class D/279.png,Class D,26,2
+train/Class D/9164.png,Class D,26,2
+train/Class D/32.png,Class D,24,4
+train/Class D/9004.png,Class D,28,0
+train/Class D/9038.png,Class D,25,3
+train/Class D/133.png,Class D,23,5
+train/Class D/331.png,Class D,24,4
+train/Class D/443.png,Class D,28,0
+train/Class D/325.png,Class D,25,3
+train/Class D/441.png,Class D,25,3
+train/Class D/131.png,Class D,28,0
+train/Class D/119.png,Class D,24,4
+train/Class D/18.png,Class D,23,5
+train/Class D/9006.png,Class D,27,1
+train/Class D/30.png,Class D,26,2
+train/Class D/24.png,Class D,25,3
+train/Class D/9172.png,Class D,25,3
+train/Class D/9062 (2).png,Class D,23,5
+train/Class D/247.png,Class D,27,1
+train/Class D/253.png,Class D,23,5
+train/Class D/535.png,Class D,26,2
+train/Class D/284.png,Class D,23,5
+train/Class D/8046.png,Class D,27,1
+train/Class D/8047.png,Class D,24,4
+train/Class D/291.png,Class D,23,5
+train/Class D/8053.png,Class D,24,4
+train/Class D/285.png,Class D,26,2
+train/Class D/252.png,Class D,24,4
+train/Class D/9086 (2).png,Class D,27,1
+train/Class D/9096 (2).png,Class D,23,5
+train/Class D/246.png,Class D,28,0
+train/Class D/9173.png,Class D,24,4
+train/Class D/9198.png,Class D,23,5
+train/Class D/9013.png,Class D,26,2
+train/Class D/124.png,Class D,24,4
+train/Class D/497.png,Class D,23,5
+train/Class D/8127.png,Class D,25,3
+train/Class D/468.png,Class D,28,0
+train/Class D/326.png,Class D,27,1
+train/Class D/9173 (2).png,Class D,26,2
+train/Class D/382.png,Class D,25,3
+train/Class D/95.png,Class D,26,2
+train/Class D/157.png,Class D,27,1
+train/Class D/4.png,Class D,28,0
+train/Class D/9060.png,Class D,27,1
+train/Class D/9074.png,Class D,25,3
+train/Class D/9048.png,Class D,24,4
+train/Class D/9100.png,Class D,26,2
+train/Class D/9128.png,Class D,23,5
+train/Class D/209.png,Class D,24,4
+train/Class D/547.png,Class D,26,2
+train/Class D/8050 (2).png,Class D,28,0
+train/Class D/221.png,Class D,23,5
+train/Class D/553.png,Class D,27,1
+train/Class D/552.png,Class D,24,4
+train/Class D/546.png,Class D,27,1
+train/Class D/9129.png,Class D,24,4
+train/Class D/9049.png,Class D,24,4
+train/Class D/181.png,Class D,27,1
+train/Class D/43.png,Class D,24,4
+train/Class D/9075.png,Class D,25,3
+train/Class D/9061.png,Class D,28,0
+train/Class D/9046 (2).png,Class D,27,1
+train/Class D/5.png,Class D,23,5
+train/Class D/142.png,Class D,24,4
+train/Class D/156.png,Class D,26,2
+train/Class D/94.png,Class D,24,4
+train/Class D/418.png,Class D,28,0
+train/Class D/424.png,Class D,26,2
+train/Class D/381.png,Class D,23,5
+train/Class D/140.png,Class D,25,3
+train/Class D/154.png,Class D,25,3
+train/Class D/9063.png,Class D,24,4
+train/Class D/183.png,Class D,25,3
+train/Class D/9108 (2).png,Class D,24,4
+train/Class D/9117.png,Class D,25,3
+train/Class D/222.png,Class D,25,3
+train/Class D/593.png,Class D,28,0
+train/Class D/8037.png,Class D,28,0
+train/Class D/54.png,Class D,23,5
+train/Class D/9062.png,Class D,25,3
+train/Class D/6.png,Class D,26,2
+train/Class D/40.png,Class D,28,0
+train/Class D/8004 (2).png,Class D,25,3
+train/Class D/8181.png,Class D,24,4
+train/Class D/425.png,Class D,28,0
+train/Class D/343.png,Class D,26,2
+train/Class D/419.png,Class D,28,0
+train/Class D/347.png,Class D,27,1
+train/Class D/421.png,Class D,23,5
+train/Class D/409.png,Class D,24,4
+train/Class D/9119 (2).png,Class D,24,4
+train/Class D/384.png,Class D,26,2
+train/Class D/9109 (2).png,Class D,23,5
+train/Class D/192.png,Class D,24,4
+train/Class D/44.png,Class D,28,0
+train/Class D/8083 (2).png,Class D,27,1
+train/Class D/9106.png,Class D,27,1
+train/Class D/9112.png,Class D,24,4
+train/Class D/582.png,Class D,28,0
+train/Class D/583.png,Class D,27,1
+train/Class D/226.png,Class D,23,5
+train/Class D/45.png,Class D,27,1
+train/Class D/9073.png,Class D,25,3
+train/Class D/86.png,Class D,26,2
+train/Class D/178.png,Class D,23,5
+train/Class D/150.png,Class D,23,5
+train/Class D/9098.png,Class D,23,5
+train/Class D/385.png,Class D,25,3
+train/Class D/346.png,Class D,26,2
+train/Class D/420.png,Class D,23,5
+train/Class D/344.png,Class D,25,3
+train/Class D/378.png,Class D,28,0
+train/Class D/387.png,Class D,26,2
+train/Class D/8179.png,Class D,28,0
+train/Class D/9162 (2).png,Class D,25,3
+train/Class D/90.png,Class D,28,0
+train/Class D/53.png,Class D,24,4
+train/Class D/1.png,Class D,23,5
+train/Class D/9071.png,Class D,28,0
+train/Class D/47.png,Class D,27,1
+train/Class D/8051 (2).png,Class D,28,0
+train/Class D/9139.png,Class D,27,1
+train/Class D/9111.png,Class D,26,2
+train/Class D/224.png,Class D,27,1
+train/Class D/556.png,Class D,25,3
+train/Class D/581.png,Class D,27,1
+train/Class D/594.png,Class D,26,2
+train/Class D/580.png,Class D,28,0
+train/Class D/557.png,Class D,24,4
+train/Class D/9025 (2).png,Class D,27,1
+train/Class D/9110.png,Class D,24,4
+train/Class D/9138.png,Class D,23,5
+train/Class D/9070.png,Class D,25,3
+train/Class D/46.png,Class D,24,4
+train/Class D/52.png,Class D,26,2
+train/Class D/9058.png,Class D,28,0
+train/Class D/9186 (2).png,Class D,24,4
+train/Class D/85.png,Class D,28,0
+train/Class D/91.png,Class D,25,3
+train/Class D/153.png,Class D,28,0
+train/Class D/9057 (2).png,Class D,28,0
+train/Class D/386.png,Class D,23,5
+train/Class D/423.png,Class D,27,1
+train/Class C/348.png,Class C,19,9
+train/Class C/374.png,Class C,18,10
+train/Class C/8019 (2).png,Class C,20,8
+train/Class C/88.png,Class C,18,10
+train/Class C/604.png,Class C,18,10
+train/Class C/9041.png,Class C,19,9
+train/Class C/63.png,Class C,16,12
+train/Class C/9055.png,Class C,20,8
+train/Class C/9121.png,Class C,21,7
+train/Class C/572.png,Class C,19,9
+train/Class C/599.png,Class C,16,12
+train/Class C/8029.png,Class C,18,10
+train/Class C/8015.png,Class C,17,11
+train/Class C/8000.png,Class C,22,6
+train/Class C/8014.png,Class C,22,6
+train/Class C/8028.png,Class C,20,8
+train/Class C/567.png,Class C,19,9
+train/Class C/229.png,Class C,22,6
+train/Class C/9167 (2).png,Class C,16,12
+train/Class C/125 (2).png,Class C,16,12
+train/Class C/62.png,Class C,20,8
+train/Class C/9054.png,Class C,17,11
+train/Class C/188.png,Class C,20,8
+train/Class C/243 (2).png,Class C,19,9
+train/Class C/163.png,Class C,18,10
+train/Class C/89.png,Class C,19,9
+train/Class C/9083.png,Class C,18,10
+train/Class C/8174.png,Class C,19,9
+train/Class C/413.png,Class C,21,7
+train/Class C/375.png,Class C,16,12
+train/Class C/411.png,Class C,20,8
+train/Class C/7084.png,Class C,19,9
+train/Class C/607.png,Class C,17,11
+train/Class C/9042.png,Class C,17,11
+train/Class C/171 (2).png,Class C,19,9
+train/Class C/565.png,Class C,16,12
+train/Class C/8017.png,Class C,18,10
+train/Class C/8135 (2).png,Class C,16,12
+train/Class C/9137.png,Class C,16,12
+train/Class C/49.png,Class C,22,6
+train/Class C/8096 (2).png,Class C,19,9
+train/Class C/376.png,Class C,15,13
+train/Class C/9132 (2).png,Class C,15,13
+train/Class C/49 (2).png,Class C,18,10
+train/Class C/65.png,Class C,16,12
+train/Class C/9047.png,Class C,20,8
+train/Class C/560.png,Class C,21,7
+train/Class C/206.png,Class C,18,10
+train/Class C/8007.png,Class C,16,12
+train/Class C/8011 (2).png,Class C,17,11
+train/Class C/443 (2).png,Class C,19,9
+train/Class C/8006.png,Class C,17,11
+train/Class C/207.png,Class C,16,12
+train/Class C/9132.png,Class C,15,13
+train/Class C/70.png,Class C,20,8
+train/Class C/64.png,Class C,18,10
+train/Class C/8156 (2).png,Class C,17,11
+train/Class C/9085.png,Class C,20,8
+train/Class C/171.png,Class C,16,12
+train/Class C/165.png,Class C,17,11
+train/Class C/8172.png,Class C,22,6
+train/Class C/401.png,Class C,21,7
+train/Class C/371.png,Class C,16,12
+train/Class C/8170.png,Class C,21,7
+train/Class C/8158.png,Class C,21,7
+train/Class C/167.png,Class C,21,7
+train/Class C/8206 (2).png,Class C,16,12
+train/Class C/9087.png,Class C,16,12
+train/Class C/9078.png,Class C,18,10
+train/Class C/8170 (2).png,Class C,19,9
+train/Class C/198.png,Class C,22,6
+train/Class C/66.png,Class C,15,13
+train/Class C/8206.png,Class C,15,13
+train/Class C/205.png,Class C,16,12
+train/Class C/8010.png,Class C,15,13
+train/Class C/8004.png,Class C,21,7
+train/Class C/8038.png,Class C,18,10
+train/Class C/8039.png,Class C,21,7
+train/Class C/8005.png,Class C,15,13
+train/Class C/8011.png,Class C,19,9
+train/Class C/562.png,Class C,15,13
+train/Class C/9051.png,Class C,20,8
+train/Class C/67.png,Class C,15,13
+train/Class C/8194 (2).png,Class C,17,11
+train/Class C/172.png,Class C,21,7
+train/Class C/8171.png,Class C,17,11
+train/Class C/416.png,Class C,20,8
+train/Class C/8116.png,Class C,21,7
+train/Class C/129.png,Class C,16,12
+train/Class C/14.png,Class C,16,12
+train/Class C/7147.png,Class C,21,7
+train/Class C/8001 - copia.png,Class C,21,7
+train/Class C/8076.png,Class C,16,12
+train/Class C/7146.png,Class C,20,8
+train/Class C/15.png,Class C,21,7
+train/Class C/9023.png,Class C,20,8
+train/Class C/8117.png,Class C,19,9
+train/Class C/249 (2).png,Class C,20,8
+train/Class C/472.png,Class C,20,8
+train/Class C/499.png,Class C,22,6
+train/Class C/8100 (2).png,Class C,17,11
+train/Class C/8115.png,Class C,18,10
+train/Class C/8101.png,Class C,16,12
+train/Class C/9009.png,Class C,15,13
+train/Class C/599 (2).png,Class C,19,9
+train/Class C/8075.png,Class C,19,9
+train/Class C/8048.png,Class C,20,8
+train/Class C/507.png,Class C,19,9
+train/Class C/8196 (2).png,Class C,16,12
+train/Class C/249.png,Class C,17,11
+train/Class C/250 (2).png,Class C,18,10
+train/Class C/9183.png,Class C,20,8
+train/Class C/9008.png,Class C,16,12
+train/Class C/9020.png,Class C,16,12
+train/Class C/8100.png,Class C,22,6
+train/Class C/8114.png,Class C,19,9
+train/Class C/8128.png,Class C,17,11
+train/Class C/498.png,Class C,17,11
+train/Class C/315.png,Class C,16,12
+train/Class C/477.png,Class C,16,12
+train/Class C/339.png,Class C,19,9
+train/Class C/8110.png,Class C,16,12
+train/Class C/8069 (2).png,Class C,16,12
+train/Class C/521 (2).png,Class C,22,6
+train/Class C/7141.png,Class C,22,6
+train/Class C/9144.png,Class C,16,12
+train/Class C/271.png,Class C,18,10
+train/Class C/503.png,Class C,19,9
+train/Class C/329 (2).png,Class C,20,8
+train/Class C/8056 (2).png,Class C,16,12
+train/Class C/9107 (2).png,Class C,16,12
+train/Class C/502.png,Class C,15,13
+train/Class C/9151.png,Class C,18,10
+train/Class C/9179.png,Class C,20,8
+train/Class C/8197 (2).png,Class C,20,8
+train/Class C/155 (2).png,Class C,17,11
+train/Class C/8111.png,Class C,20,8
+train/Class C/476.png,Class C,20,8
+train/Class C/312.png,Class C,15,13
+train/Class C/448.png,Class C,22,6
+train/Class C/104.png,Class C,21,7
+train/Class C/11.png,Class C,16,12
+train/Class C/9153.png,Class C,21,7
+train/Class C/500.png,Class C,20,8
+train/Class C/272.png,Class C,20,8
+train/Class C/8098.png,Class C,17,11
+train/Class C/528.png,Class C,16,12
+train/Class C/8073.png,Class C,20,8
+train/Class C/8067.png,Class C,21,7
+train/Class C/8118 (2).png,Class C,16,12
+train/Class C/501.png,Class C,21,7
+train/Class C/352 (2).png,Class C,21,7
+train/Class C/38.png,Class C,17,11
+train/Class C/313.png,Class C,20,8
+train/Class C/444.png,Class C,17,11
+train/Class C/487.png,Class C,19,9
+train/Class C/8150 (2).png,Class C,20,8
+train/Class C/8028 (2).png,Class C,21,7
+train/Class C/35.png,Class C,17,11
+train/Class C/9177.png,Class C,16,12
+train/Class C/8094.png,Class C,21,7
+train/Class C/524.png,Class C,20,8
+train/Class C/8080.png,Class C,22,6
+train/Class C/8043.png,Class C,21,7
+train/Class C/8042.png,Class C,21,7
+train/Class C/294.png,Class C,18,10
+train/Class C/531.png,Class C,15,13
+train/Class C/8017 (2).png,Class C,22,6
+train/Class C/8081.png,Class C,20,8
+train/Class C/243.png,Class C,20,8
+train/Class C/84 (2).png,Class C,18,10
+train/Class C/7173.png,Class C,19,9
+train/Class C/7013.png,Class C,20,8
+train/Class C/9002.png,Class C,20,8
+train/Class C/8075 (2).png,Class C,18,10
+train/Class C/272 (2).png,Class C,22,6
+train/Class C/451.png,Class C,20,8
+train/Class C/479.png,Class C,20,8
+train/Class C/309.png,Class C,22,6
+train/Class C/453.png,Class C,15,13
+train/Class C/8134.png,Class C,19,9
+train/Class C/484.png,Class C,18,10
+train/Class C/8192 (2).png,Class C,20,8
+train/Class C/123.png,Class C,20,8
+train/Class C/8182 (2).png,Class C,16,12
+train/Class C/9014.png,Class C,21,7
+train/Class C/8083.png,Class C,19,9
+train/Class C/282.png,Class C,22,6
+train/Class C/8055.png,Class C,19,9
+train/Class C/526.png,Class C,19,9
+train/Class C/8096.png,Class C,19,9
+train/Class C/8082.png,Class C,15,13
+train/Class C/9149.png,Class C,18,10
+train/Class C/9175.png,Class C,15,13
+train/Class C/313 (2).png,Class C,15,13
+train/Class C/8030 (3).png,Class C,15,13
+train/Class C/534 (2).png,Class C,20,8
+train/Class C/524 (2).png,Class C,16,12
+train/Class C/8109.png,Class C,16,12
+train/Class C/324.png,Class C,21,7
+train/Class C/384 (2).png,Class C,21,7
+train/Class C/456.png,Class C,16,12
+train/Class C/318.png,Class C,19,9
+train/Class C/481.png,Class C,22,6
+train/Class C/8125.png,Class C,15,13
+train/Class C/126.png,Class C,21,7
+train/Class C/8030 (2).png,Class C,15,13
+train/Class C/227 (2).png,Class C,18,10
+train/Class C/250.png,Class C,15,13
+train/Class C/287.png,Class C,21,7
+train/Class C/8078.png,Class C,15,13
+train/Class C/279.png,Class C,17,11
+train/Class C/245.png,Class C,21,7
+train/Class C/8093.png,Class C,22,6
+train/Class C/523.png,Class C,19,9
+train/Class C/251.png,Class C,20,8
+train/Class C/9170.png,Class C,21,7
+train/Class C/9164.png,Class C,17,11
+train/Class C/127.png,Class C,15,13
+train/Class C/8118.png,Class C,20,8
+train/Class C/8124.png,Class C,22,6
+train/Class C/325.png,Class C,17,11
+train/Class C/333.png,Class C,15,13
+train/Class C/496.png,Class C,19,9
+train/Class C/8126.png,Class C,19,9
+train/Class C/8132.png,Class C,22,6
+train/Class C/131.png,Class C,21,7
+train/Class C/125.png,Class C,19,9
+train/Class C/18.png,Class C,22,6
+train/Class C/7177.png,Class C,21,7
+train/Class C/521.png,Class C,16,12
+train/Class C/8091.png,Class C,15,13
+train/Class C/247.png,Class C,17,11
+train/Class C/9072 (2).png,Class C,15,13
+train/Class C/290.png,Class C,17,11
+train/Class C/285.png,Class C,15,13
+train/Class C/508.png,Class C,21,7
+train/Class C/9167.png,Class C,16,12
+train/Class C/8006 (2).png,Class C,22,6
+train/Class C/379 (2).png,Class C,17,11
+train/Class C/19.png,Class C,15,13
+train/Class C/118.png,Class C,15,13
+train/Class C/8133.png,Class C,21,7
+train/Class C/483.png,Class C,19,9
+train/Class C/8044 - copia.png,Class C,19,9
+train/Class C/440.png,Class C,19,9
+train/Class C/454.png,Class C,18,10
+train/Class C/225 (2).png,Class C,16,12
+train/Class C/8154.png,Class C,15,13
+train/Class C/95.png,Class C,19,9
+train/Class C/42.png,Class C,19,9
+train/Class C/9074.png,Class C,15,13
+train/Class C/8181 (2).png,Class C,17,11
+train/Class C/221.png,Class C,19,9
+train/Class C/8128 (2).png,Class C,15,13
+train/Class C/8008.png,Class C,16,12
+train/Class C/546.png,Class C,21,7
+train/Class C/9061.png,Class C,15,13
+train/Class C/383.png,Class C,20,8
+train/Class C/8196.png,Class C,21,7
+train/Class C/340.png,Class C,18,10
+train/Class C/424.png,Class C,21,7
+train/Class C/342.png,Class C,20,8
+train/Class C/8194.png,Class C,15,13
+train/Class C/8180.png,Class C,15,13
+train/Class C/82.png,Class C,16,12
+train/Class C/168.png,Class C,16,12
+train/Class C/41.png,Class C,20,8
+train/Class C/7.png,Class C,19,9
+train/Class C/197.png,Class C,17,11
+train/Class C/8153 (2).png,Class C,15,13
+train/Class C/479 (2).png,Class C,18,10
+train/Class C/550.png,Class C,15,13
+train/Class C/222.png,Class C,20,8
+train/Class C/8036.png,Class C,20,8
+train/Class C/223.png,Class C,17,11
+train/Class C/68.png,Class C,16,12
+train/Class C/6.png,Class C,20,8
+train/Class C/40.png,Class C,21,7
+train/Class C/155.png,Class C,17,11
+train/Class C/83.png,Class C,16,12
+train/Class C/8014 (2).png,Class C,15,13
+train/Class C/380.png,Class C,21,7
+train/Class C/8156.png,Class C,17,11
+train/Class C/87 (2).png,Class C,16,12
+train/Class C/409.png,Class C,19,9
+train/Class C/129 (2).png,Class C,22,6
+train/Class C/9072.png,Class C,17,11
+train/Class C/62 (2).png,Class C,22,6
+train/Class C/9112.png,Class C,17,11
+train/Class C/555.png,Class C,21,7
+train/Class C/227.png,Class C,17,11
+train/Class C/569.png,Class C,21,7
+train/Class C/596.png,Class C,15,13
+train/Class C/8032.png,Class C,20,8
+train/Class C/226.png,Class C,15,13
+train/Class C/9113.png,Class C,21,7
+train/Class C/9136 (2).png,Class C,17,11
+train/Class C/9107.png,Class C,19,9
+train/Class C/51.png,Class C,21,7
+train/Class C/45.png,Class C,19,9
+train/Class C/193.png,Class C,22,6
+train/Class C/8153.png,Class C,15,13
+train/Class C/408.png,Class C,18,10
+train/Class C/352.png,Class C,15,13
+train/Class C/8190.png,Class C,15,13
+train/Class C/420.png,Class C,21,7
+train/Class C/350.png,Class C,18,10
+train/Class C/436.png,Class C,17,11
+train/Class C/422.png,Class C,19,9
+train/Class C/8192.png,Class C,15,13
+train/Class C/19 (2).png,Class C,19,9
+train/Class C/8151.png,Class C,21,7
+train/Class C/8179.png,Class C,21,7
+train/Class C/608.png,Class C,15,13
+train/Class C/84.png,Class C,15,13
+train/Class C/9059.png,Class C,17,11
+train/Class C/191.png,Class C,22,6
+train/Class C/185.png,Class C,17,11
+train/Class C/9105.png,Class C,17,11
+train/Class C/8031.png,Class C,18,10
+train/Class C/595.png,Class C,16,12
+train/Class C/8019.png,Class C,15,13
+train/Class C/8018.png,Class C,22,6
+train/Class C/594.png,Class C,17,11
+train/Class C/8030.png,Class C,16,12
+train/Class C/225.png,Class C,16,12
+train/Class C/9104.png,Class C,18,10
+train/Class C/9110.png,Class C,18,10
+train/Class C/9070.png,Class C,15,13
+train/Class C/609.png,Class C,18,10
+train/Class C/8150.png,Class C,19,9
+train/Class C/379.png,Class C,18,10
+train/Class C/8193.png,Class C,20,8
+train/Class C/345.png,Class C,16,12
+train/Class A/348.png,Class A,3,25
+train/Class A/374.png,Class A,1,27
+train/Class A/360.png,Class A,1,27
+train/Class A/406.png,Class A,6,22
+train/Class A/7093.png,Class A,4,24
+train/Class A/176.png,Class A,4,24
+train/Class A/610.png,Class A,5,23
+train/Class A/7087.png,Class A,6,22
+train/Class A/162.png,Class A,5,23
+train/Class A/837.png,Class A,5,23
+train/Class A/823.png,Class A,1,27
+train/Class A/7078.png,Class A,1,27
+train/Class A/7050.png,Class A,5,23
+train/Class A/758.png,Class A,6,22
+train/Class A/764.png,Class A,1,27
+train/Class A/7118.png,Class A,4,24
+train/Class A/957.png,Class A,2,26
+train/Class A/490 (2).png,Class A,5,23
+train/Class A/480 (2).png,Class A,1,27
+train/Class A/7130.png,Class A,5,23
+train/Class A/200.png,Class A,2,26
+train/Class A/541 (2).png,Class A,6,22
+train/Class A/572.png,Class A,6,22
+train/Class A/599.png,Class A,1,27
+train/Class A/1019.png,Class A,4,24
+train/Class A/8014.png,Class A,1,27
+train/Class A/1018.png,Class A,5,23
+train/Class A/573.png,Class A,2,26
+train/Class A/567.png,Class A,4,24
+train/Class A/201.png,Class A,3,25
+train/Class A/229.png,Class A,1,27
+train/Class A/7131.png,Class A,5,23
+train/Class A/956.png,Class A,2,26
+train/Class A/7119.png,Class A,1,27
+train/Class A/7045.png,Class A,3,25
+train/Class A/125 (2).png,Class A,5,23
+train/Class A/7079.png,Class A,6,22
+train/Class A/836.png,Class A,5,23
+train/Class A/163.png,Class A,5,23
+train/Class A/7086.png,Class A,4,24
+train/Class A/611.png,Class A,1,27
+train/Class A/416 (2).png,Class A,5,23
+train/Class A/406 (2).png,Class A,3,25
+train/Class A/361.png,Class A,2,26
+train/Class A/407.png,Class A,6,22
+train/Class A/413.png,Class A,2,26
+train/Class A/375.png,Class A,6,22
+train/Class A/7078 (2).png,Class A,5,23
+train/Class A/349.png,Class A,3,25
+train/Class A/405.png,Class A,6,22
+train/Class A/363.png,Class A,2,26
+train/Class A/377.png,Class A,1,27
+train/Class A/411.png,Class A,5,23
+train/Class A/388.png,Class A,4,24
+train/Class A/489 (2).png,Class A,1,27
+train/Class A/499 (2).png,Class A,4,24
+train/Class A/161.png,Class A,5,23
+train/Class A/548 (2).png,Class A,4,24
+train/Class A/420 (2).png,Class A,3,25
+train/Class A/613.png,Class A,2,26
+train/Class A/7090.png,Class A,5,23
+train/Class A/175.png,Class A,2,26
+train/Class A/820.png,Class A,1,27
+train/Class A/834.png,Class A,1,27
+train/Class A/103 (2).png,Class A,5,23
+train/Class A/808.png,Class A,6,22
+train/Class A/7053.png,Class A,4,24
+train/Class A/161 (2).png,Class A,3,25
+train/Class A/983.png,Class A,4,24
+train/Class A/773.png,Class A,3,25
+train/Class A/954.png,Class A,2,26
+train/Class A/940.png,Class A,5,23
+train/Class A/7127.png,Class A,4,24
+train/Class A/559.png,Class A,2,26
+train/Class A/571.png,Class A,1,27
+train/Class A/203.png,Class A,6,22
+train/Class A/8016.png,Class A,1,27
+train/Class A/1027.png,Class A,2,26
+train/Class A/570.png,Class A,1,27
+train/Class A/558.png,Class A,3,25
+train/Class A/7132.png,Class A,5,23
+train/Class A/969.png,Class A,4,24
+train/Class A/941.png,Class A,2,26
+train/Class A/6 (2).png,Class A,4,24
+train/Class A/955.png,Class A,1,27
+train/Class A/772.png,Class A,3,25
+train/Class A/185 (2).png,Class A,1,27
+train/Class A/7119 (2).png,Class A,4,24
+train/Class A/7109 (2).png,Class A,4,24
+train/Class A/809.png,Class A,3,25
+train/Class A/7052.png,Class A,4,24
+train/Class A/835.png,Class A,2,26
+train/Class A/821.png,Class A,4,24
+train/Class A/612.png,Class A,5,23
+train/Class A/174.png,Class A,6,22
+train/Class A/7091.png,Class A,5,23
+train/Class A/160.png,Class A,6,22
+train/Class A/15 (2).png,Class A,3,25
+train/Class A/281 (2).png,Class A,5,23
+train/Class A/404.png,Class A,2,26
+train/Class A/362.png,Class A,6,22
+train/Class A/549 (2).png,Class A,2,26
+train/Class A/414.png,Class A,4,24
+train/Class A/372.png,Class A,3,25
+train/Class A/602.png,Class A,3,25
+train/Class A/7081.png,Class A,4,24
+train/Class A/164.png,Class A,6,22
+train/Class A/616.png,Class A,5,23
+train/Class A/819.png,Class A,1,27
+train/Class A/7042.png,Class A,4,24
+train/Class A/59 (2).png,Class A,4,24
+train/Class A/7056.png,Class A,1,27
+train/Class A/488 (2).png,Class A,4,24
+train/Class A/825.png,Class A,5,23
+train/Class A/71.png,Class A,2,26
+train/Class A/776.png,Class A,5,23
+train/Class A/986.png,Class A,3,25
+train/Class A/7136.png,Class A,4,24
+train/Class A/7122.png,Class A,5,23
+train/Class A/789.png,Class A,2,26
+train/Class A/951.png,Class A,2,26
+train/Class A/212.png,Class A,4,24
+train/Class A/560.png,Class A,1,27
+train/Class A/548.png,Class A,4,24
+train/Class A/8013.png,Class A,1,27
+train/Class A/92 (2).png,Class A,4,24
+train/Class A/7108 (2).png,Class A,5,23
+train/Class A/194 (2).png,Class A,2,26
+train/Class A/7118 (2).png,Class A,1,27
+train/Class A/549.png,Class A,1,27
+train/Class A/561.png,Class A,2,26
+train/Class A/788.png,Class A,5,23
+train/Class A/987.png,Class A,3,25
+train/Class A/763.png,Class A,3,25
+train/Class A/777.png,Class A,4,24
+train/Class A/351 (2).png,Class A,4,24
+train/Class A/70.png,Class A,5,23
+train/Class A/229 (2).png,Class A,4,24
+train/Class A/824.png,Class A,3,25
+train/Class A/58.png,Class A,1,27
+train/Class A/818.png,Class A,6,22
+train/Class A/7043.png,Class A,3,25
+train/Class A/7094.png,Class A,3,25
+train/Class A/617.png,Class A,5,23
+train/Class A/603.png,Class A,3,25
+train/Class A/7080.png,Class A,6,22
+train/Class A/290 (2).png,Class A,3,25
+train/Class A/14 (2).png,Class A,1,27
+train/Class A/415.png,Class A,2,26
+train/Class A/373.png,Class A,4,24
+train/Class A/371.png,Class A,2,26
+train/Class A/403.png,Class A,4,24
+train/Class A/365.png,Class A,2,26
+train/Class A/32 (2).png,Class A,2,26
+train/Class A/173.png,Class A,4,24
+train/Class A/7082.png,Class A,2,26
+train/Class A/601.png,Class A,5,23
+train/Class A/629.png,Class A,2,26
+train/Class A/7055.png,Class A,6,22
+train/Class A/7041.png,Class A,1,27
+train/Class A/832.png,Class A,3,25
+train/Class A/72.png,Class A,5,23
+train/Class A/7069.png,Class A,3,25
+train/Class A/198.png,Class A,2,26
+train/Class A/66.png,Class A,5,23
+train/Class A/540 (2).png,Class A,5,23
+train/Class A/761.png,Class A,6,22
+train/Class A/775.png,Class A,3,25
+train/Class A/985.png,Class A,2,26
+train/Class A/991.png,Class A,4,24
+train/Class A/7121.png,Class A,5,23
+train/Class A/7135.png,Class A,1,27
+train/Class A/9130.png,Class A,5,23
+train/Class A/7109.png,Class A,5,23
+train/Class A/952.png,Class A,5,23
+train/Class A/211.png,Class A,3,25
+train/Class A/239.png,Class A,2,26
+train/Class A/1020.png,Class A,5,23
+train/Class A/40 (2).png,Class A,2,26
+train/Class A/588.png,Class A,4,24
+train/Class A/589.png,Class A,2,26
+train/Class A/348 (2).png,Class A,6,22
+train/Class A/220 (2).png,Class A,6,22
+train/Class A/238.png,Class A,6,22
+train/Class A/210.png,Class A,1,27
+train/Class A/146 (2).png,Class A,3,25
+train/Class A/7108.png,Class A,4,24
+train/Class A/953.png,Class A,1,27
+train/Class A/7120.png,Class A,4,24
+train/Class A/748.png,Class A,4,24
+train/Class A/984.png,Class A,1,27
+train/Class A/299 (2).png,Class A,4,24
+train/Class A/774.png,Class A,5,23
+train/Class A/760.png,Class A,6,22
+train/Class A/199.png,Class A,4,24
+train/Class A/67.png,Class A,5,23
+train/Class A/73.png,Class A,4,24
+train/Class A/833.png,Class A,6,22
+train/Class A/7068.png,Class A,4,24
+train/Class A/393 (2).png,Class A,6,22
+train/Class A/7040.png,Class A,2,26
+train/Class A/383 (2).png,Class A,1,27
+train/Class A/7054.png,Class A,3,25
+train/Class A/7069 (2).png,Class A,3,25
+train/Class A/7079 (2).png,Class A,5,23
+train/Class A/628.png,Class A,2,26
+train/Class A/600.png,Class A,4,24
+train/Class A/614.png,Class A,2,26
+train/Class A/172.png,Class A,6,22
+train/Class A/7097.png,Class A,4,24
+train/Class A/134 (2).png,Class A,3,25
+train/Class A/124 (2).png,Class A,2,26
+train/Class A/407 (2).png,Class A,1,27
+train/Class A/252 (2).png,Class A,3,25
+train/Class A/364.png,Class A,2,26
+train/Class A/242 (2).png,Class A,4,24
+train/Class A/459.png,Class A,4,24
+train/Class A/317.png,Class A,3,25
+train/Class A/471.png,Class A,6,22
+train/Class A/529 (2).png,Class A,2,26
+train/Class A/897.png,Class A,6,22
+train/Class A/673.png,Class A,4,24
+train/Class A/115.png,Class A,4,24
+train/Class A/101.png,Class A,6,22
+train/Class A/14.png,Class A,2,26
+train/Class A/172 (2).png,Class A,3,25
+train/Class A/698.png,Class A,4,24
+train/Class A/7027.png,Class A,2,26
+train/Class A/7184.png,Class A,4,24
+train/Class A/713.png,Class A,4,24
+train/Class A/920.png,Class A,6,22
+train/Class A/934.png,Class A,2,26
+train/Class A/908.png,Class A,3,25
+train/Class A/539.png,Class A,2,26
+train/Class A/511.png,Class A,2,26
+train/Class A/288.png,Class A,4,24
+train/Class A/7135 (2).png,Class A,4,24
+train/Class A/289.png,Class A,3,25
+train/Class A/516 (2).png,Class A,1,27
+train/Class A/510.png,Class A,1,27
+train/Class A/506 (2).png,Class A,6,22
+train/Class A/262.png,Class A,3,25
+train/Class A/538.png,Class A,3,25
+train/Class A/909.png,Class A,4,24
+train/Class A/7146.png,Class A,3,25
+train/Class A/935.png,Class A,5,23
+train/Class A/282 (2).png,Class A,3,25
+train/Class A/921.png,Class A,5,23
+train/Class A/7000 (2).png,Class A,2,26
+train/Class A/712.png,Class A,6,22
+train/Class A/7168 (2).png,Class A,3,25
+train/Class A/7026.png,Class A,4,24
+train/Class A/7032.png,Class A,3,25
+train/Class A/699.png,Class A,5,23
+train/Class A/15.png,Class A,6,22
+train/Class A/672.png,Class A,4,24
+train/Class A/114.png,Class A,5,23
+train/Class A/882.png,Class A,6,22
+train/Class A/896.png,Class A,5,23
+train/Class A/128.png,Class A,5,23
+train/Class A/259 (2).png,Class A,1,27
+train/Class A/249 (2).png,Class A,4,24
+train/Class A/574 (2).png,Class A,3,25
+train/Class A/302.png,Class A,3,25
+train/Class A/316.png,Class A,4,24
+train/Class A/470.png,Class A,6,22
+train/Class A/458.png,Class A,1,27
+train/Class A/328.png,Class A,3,25
+train/Class A/300.png,Class A,1,27
+train/Class A/466.png,Class A,6,22
+train/Class A/472.png,Class A,6,22
+train/Class A/307 (2).png,Class A,3,25
+train/Class A/499.png,Class A,2,26
+train/Class A/658.png,Class A,6,22
+train/Class A/880.png,Class A,5,23
+train/Class A/894.png,Class A,5,23
+train/Class A/42 (2).png,Class A,3,25
+train/Class A/116.png,Class A,6,22
+train/Class A/670.png,Class A,2,26
+train/Class A/7018.png,Class A,3,25
+train/Class A/7030.png,Class A,2,26
+train/Class A/7054 (2).png,Class A,1,27
+train/Class A/7026 (2).png,Class A,4,24
+train/Class A/704.png,Class A,2,26
+train/Class A/937.png,Class A,6,22
+train/Class A/7178.png,Class A,4,24
+train/Class A/923.png,Class A,5,23
+train/Class A/7150.png,Class A,6,22
+train/Class A/248.png,Class A,6,22
+train/Class A/530 (2).png,Class A,1,27
+train/Class A/520 (2).png,Class A,1,27
+train/Class A/458 (2).png,Class A,5,23
+train/Class A/365 (2).png,Class A,3,25
+train/Class A/375 (2).png,Class A,4,24
+train/Class A/506.png,Class A,3,25
+train/Class A/8061.png,Class A,3,25
+train/Class A/507.png,Class A,5,23
+train/Class A/261.png,Class A,4,24
+train/Class A/249.png,Class A,3,25
+train/Class A/7145.png,Class A,4,24
+train/Class A/7151.png,Class A,4,24
+train/Class A/7179.png,Class A,3,25
+train/Class A/922.png,Class A,3,25
+train/Class A/936.png,Class A,3,25
+train/Class A/711.png,Class A,5,23
+train/Class A/136 (2).png,Class A,6,22
+train/Class A/7031.png,Class A,6,22
+train/Class A/144 (2).png,Class A,6,22
+train/Class A/154 (2).png,Class A,2,26
+train/Class A/7019.png,Class A,4,24
+train/Class A/117.png,Class A,6,22
+train/Class A/671.png,Class A,2,26
+train/Class A/895.png,Class A,2,26
+train/Class A/881.png,Class A,2,26
+train/Class A/659.png,Class A,2,26
+train/Class A/232 (2).png,Class A,5,23
+train/Class A/498.png,Class A,5,23
+train/Class A/7019 (2).png,Class A,4,24
+train/Class A/301.png,Class A,5,23
+train/Class A/329.png,Class A,2,26
+train/Class A/311.png,Class A,5,23
+train/Class A/477.png,Class A,4,24
+train/Class A/339.png,Class A,2,26
+train/Class A/488.png,Class A,5,23
+train/Class A/107.png,Class A,5,23
+train/Class A/661.png,Class A,1,27
+train/Class A/675.png,Class A,5,23
+train/Class A/113.png,Class A,6,22
+train/Class A/846.png,Class A,6,22
+train/Class A/316 (2).png,Class A,4,24
+train/Class A/852.png,Class A,5,23
+train/Class A/12.png,Class A,3,25
+train/Class A/701.png,Class A,6,22
+train/Class A/7182.png,Class A,1,27
+train/Class A/364 (2).png,Class A,2,26
+train/Class A/416 - copia.png,Class A,4,24
+train/Class A/729.png,Class A,6,22
+train/Class A/7169.png,Class A,3,25
+train/Class A/926.png,Class A,1,27
+train/Class A/517.png,Class A,3,25
+train/Class A/271.png,Class A,6,22
+train/Class A/259.png,Class A,3,25
+train/Class A/7027 (2).png,Class A,1,27
+train/Class A/8070.png,Class A,1,27
+train/Class A/8058.png,Class A,1,27
+train/Class A/414 (2).png,Class A,2,26
+train/Class A/251 (2).png,Class A,2,26
+train/Class A/329 (2).png,Class A,5,23
+train/Class A/258.png,Class A,4,24
+train/Class A/516.png,Class A,6,22
+train/Class A/270.png,Class A,6,22
+train/Class A/927.png,Class A,6,22
+train/Class A/7168.png,Class A,5,23
+train/Class A/728.png,Class A,1,27
+train/Class A/700.png,Class A,2,26
+train/Class A/714.png,Class A,3,25
+train/Class A/13.png,Class A,3,25
+train/Class A/853.png,Class A,5,23
+train/Class A/7008.png,Class A,1,27
+train/Class A/847.png,Class A,3,25
+train/Class A/890.png,Class A,3,25
+train/Class A/674.png,Class A,1,27
+train/Class A/106.png,Class A,5,23
+train/Class A/660.png,Class A,1,27
+train/Class A/489.png,Class A,2,26
+train/Class A/155 (2).png,Class A,2,26
+train/Class A/145 (2).png,Class A,3,25
+train/Class A/223 (2).png,Class A,1,27
+train/Class A/338.png,Class A,4,24
+train/Class A/310.png,Class A,4,24
+train/Class A/476.png,Class A,5,23
+train/Class A/462.png,Class A,2,26
+train/Class A/91 (2).png,Class A,6,22
+train/Class A/538 (2).png,Class A,5,23
+train/Class A/163 (2).png,Class A,4,24
+train/Class A/676.png,Class A,5,23
+train/Class A/104.png,Class A,6,22
+train/Class A/892.png,Class A,5,23
+train/Class A/7036.png,Class A,2,26
+train/Class A/879.png,Class A,3,25
+train/Class A/851.png,Class A,5,23
+train/Class A/689.png,Class A,5,23
+train/Class A/7181.png,Class A,6,22
+train/Class A/702.png,Class A,6,22
+train/Class A/716.png,Class A,5,23
+train/Class A/925.png,Class A,1,27
+train/Class A/500.png,Class A,2,26
+train/Class A/272.png,Class A,5,23
+train/Class A/528.png,Class A,4,24
+train/Class A/422 (2).png,Class A,4,24
+train/Class A/299.png,Class A,2,26
+train/Class A/298.png,Class A,3,25
+train/Class A/529.png,Class A,6,22
+train/Class A/273.png,Class A,3,25
+train/Class A/7001 (2).png,Class A,4,24
+train/Class A/930.png,Class A,3,25
+train/Class A/924.png,Class A,2,26
+train/Class A/717.png,Class A,2,26
+train/Class A/7180.png,Class A,5,23
+train/Class A/517 (2).png,Class A,3,25
+train/Class A/703.png,Class A,5,23
+train/Class A/688.png,Class A,1,27
+train/Class A/850.png,Class A,1,27
+train/Class A/248 (2).png,Class A,4,24
+train/Class A/320 (2).png,Class A,2,26
+train/Class A/893.png,Class A,4,24
+train/Class A/105.png,Class A,5,23
+train/Class A/187 (2).png,Class A,1,27
+train/Class A/7063 (2).png,Class A,1,27
+train/Class A/307.png,Class A,1,27
+train/Class A/313.png,Class A,6,22
+train/Class A/478.png,Class A,3,25
+train/Class A/336.png,Class A,2,26
+train/Class A/444.png,Class A,4,24
+train/Class A/487.png,Class A,1,27
+train/Class A/12 (2).png,Class A,6,22
+train/Class A/652.png,Class A,3,25
+train/Class A/134.png,Class A,1,27
+train/Class A/646.png,Class A,2,26
+train/Class A/875.png,Class A,6,22
+train/Class A/35.png,Class A,2,26
+train/Class A/861.png,Class A,1,27
+train/Class A/21.png,Class A,3,25
+train/Class A/849.png,Class A,6,22
+train/Class A/691.png,Class A,1,27
+train/Class A/7012.png,Class A,1,27
+train/Class A/685.png,Class A,2,26
+train/Class A/726.png,Class A,5,23
+train/Class A/732.png,Class A,6,22
+train/Class A/7166.png,Class A,5,23
+train/Class A/518.png,Class A,4,24
+train/Class A/242.png,Class A,6,22
+train/Class A/530.png,Class A,2,26
+train/Class A/192 (2).png,Class A,1,27
+train/Class A/281.png,Class A,5,23
+train/Class A/8057.png,Class A,4,24
+train/Class A/8043.png,Class A,3,25
+train/Class A/294.png,Class A,6,22
+train/Class A/280.png,Class A,6,22
+train/Class A/176 (2).png,Class A,3,25
+train/Class A/257.png,Class A,6,22
+train/Class A/243.png,Class A,1,27
+train/Class A/210 (2).png,Class A,5,23
+train/Class A/84 (2).png,Class A,3,25
+train/Class A/7167.png,Class A,1,27
+train/Class A/733.png,Class A,5,23
+train/Class A/727.png,Class A,3,25
+train/Class A/7121 (2).png,Class A,1,27
+train/Class A/684.png,Class A,4,24
+train/Class A/690.png,Class A,1,27
+train/Class A/848.png,Class A,1,27
+train/Class A/7013.png,Class A,5,23
+train/Class A/860.png,Class A,3,25
+train/Class A/34.png,Class A,3,25
+train/Class A/874.png,Class A,5,23
+train/Class A/647.png,Class A,6,22
+train/Class A/135.png,Class A,1,27
+train/Class A/437 (2).png,Class A,6,22
+train/Class A/272 (2).png,Class A,5,23
+train/Class A/445.png,Class A,3,25
+train/Class A/337.png,Class A,5,23
+train/Class A/479.png,Class A,2,26
+train/Class A/309.png,Class A,3,25
+train/Class A/447.png,Class A,1,27
+train/Class A/453.png,Class A,3,25
+train/Class A/335.png,Class A,4,24
+train/Class A/244 (2).png,Class A,2,26
+train/Class A/490.png,Class A,5,23
+train/Class A/645.png,Class A,6,22
+train/Class A/137.png,Class A,5,23
+train/Class A/395 (2).png,Class A,2,26
+train/Class A/889.png,Class A,1,27
+train/Class A/862.png,Class A,2,26
+train/Class A/22.png,Class A,4,24
+train/Class A/876.png,Class A,4,24
+train/Class A/686.png,Class A,6,22
+train/Class A/719.png,Class A,3,25
+train/Class A/731.png,Class A,2,26
+train/Class A/7165.png,Class A,5,23
+train/Class A/269.png,Class A,2,26
+train/Class A/527.png,Class A,4,24
+train/Class A/241.png,Class A,6,22
+train/Class A/282.png,Class A,3,25
+train/Class A/8055.png,Class A,5,23
+train/Class A/283.png,Class A,3,25
+train/Class A/497 (2).png,Class A,4,24
+train/Class A/526.png,Class A,4,24
+train/Class A/240.png,Class A,1,27
+train/Class A/487 (2).png,Class A,6,22
+train/Class A/532.png,Class A,6,22
+train/Class A/7164.png,Class A,5,23
+train/Class A/303 (2).png,Class A,2,26
+train/Class A/7181 (2).png,Class A,1,27
+train/Class A/718.png,Class A,6,22
+train/Class A/687.png,Class A,5,23
+train/Class A/7004.png,Class A,1,27
+train/Class A/877.png,Class A,2,26
+train/Class A/23.png,Class A,3,25
+train/Class A/863.png,Class A,3,25
+train/Class A/7038.png,Class A,2,26
+train/Class A/219 (2).png,Class A,6,22
+train/Class A/136.png,Class A,3,25
+train/Class A/361 (2).png,Class A,5,23
+train/Class A/644.png,Class A,4,24
+train/Class A/209 (2).png,Class A,3,25
+train/Class A/485.png,Class A,2,26
+train/Class A/24 (2).png,Class A,5,23
+train/Class A/320.png,Class A,3,25
+train/Class A/446.png,Class A,1,27
+train/Class A/308.png,Class A,3,25
+train/Class A/394 (2).png,Class A,6,22
+train/Class A/442.png,Class A,3,25
+train/Class A/330.png,Class A,6,22
+train/Class A/456.png,Class A,4,24
+train/Class A/318.png,Class A,5,23
+train/Class A/78 (2).png,Class A,4,24
+train/Class A/481.png,Class A,1,27
+train/Class A/126.png,Class A,1,27
+train/Class A/640.png,Class A,5,23
+train/Class A/898.png,Class A,5,23
+train/Class A/654.png,Class A,4,24
+train/Class A/414 - copia.png,Class A,3,25
+train/Class A/7000.png,Class A,5,23
+train/Class A/683.png,Class A,3,25
+train/Class A/697.png,Class A,3,25
+train/Class A/7014.png,Class A,1,27
+train/Class A/867.png,Class A,1,27
+train/Class A/33.png,Class A,3,25
+train/Class A/734.png,Class A,6,22
+train/Class A/472 (2).png,Class A,6,22
+train/Class A/907.png,Class A,2,26
+train/Class A/536.png,Class A,6,22
+train/Class A/250.png,Class A,3,25
+train/Class A/293.png,Class A,2,26
+train/Class A/312 (2).png,Class A,3,25
+train/Class A/547 (2).png,Class A,6,22
+train/Class A/557 (2).png,Class A,6,22
+train/Class A/292.png,Class A,4,24
+train/Class A/279.png,Class A,6,22
+train/Class A/537.png,Class A,1,27
+train/Class A/251.png,Class A,6,22
+train/Class A/906.png,Class A,4,24
+train/Class A/7149.png,Class A,5,23
+train/Class A/7175.png,Class A,5,23
+train/Class A/32.png,Class A,1,27
+train/Class A/35 (2).png,Class A,5,23
+train/Class A/25 (2).png,Class A,5,23
+train/Class A/26.png,Class A,4,24
+train/Class A/866.png,Class A,6,22
+train/Class A/7001.png,Class A,6,22
+train/Class A/7033 (2).png,Class A,5,23
+train/Class A/669.png,Class A,4,24
+train/Class A/655.png,Class A,5,23
+train/Class A/133.png,Class A,3,25
+train/Class A/127.png,Class A,3,25
+train/Class A/641.png,Class A,6,22
+train/Class A/480.png,Class A,6,22
+train/Class A/319.png,Class A,6,22
+train/Class A/443.png,Class A,4,24
+train/Class A/325.png,Class A,5,23
+train/Class A/455.png,Class A,3,25
+train/Class A/327.png,Class A,3,25
+train/Class A/441.png,Class A,4,24
+train/Class A/657.png,Class A,5,23
+train/Class A/643.png,Class A,6,22
+train/Class A/125.png,Class A,3,25
+train/Class A/119.png,Class A,4,24
+train/Class A/13 (2).png,Class A,3,25
+train/Class A/7017.png,Class A,6,22
+train/Class A/858.png,Class A,4,24
+train/Class A/7003.png,Class A,3,25
+train/Class A/30.png,Class A,3,25
+train/Class A/864.png,Class A,3,25
+train/Class A/0 (2).png,Class A,6,22
+train/Class A/938.png,Class A,2,26
+train/Class A/193 (2).png,Class A,2,26
+train/Class A/904.png,Class A,3,25
+train/Class A/910.png,Class A,1,27
+train/Class A/183 (2).png,Class A,5,23
+train/Class A/509.png,Class A,3,25
+train/Class A/334 (2).png,Class A,3,25
+train/Class A/8052.png,Class A,4,24
+train/Class A/290.png,Class A,1,27
+train/Class A/291.png,Class A,1,27
+train/Class A/8053.png,Class A,6,22
+train/Class A/7152 (2).png,Class A,4,24
+train/Class A/508.png,Class A,5,23
+train/Class A/520.png,Class A,5,23
+train/Class A/911.png,Class A,6,22
+train/Class A/177 (2).png,Class A,1,27
+train/Class A/905.png,Class A,2,26
+train/Class A/939.png,Class A,4,24
+train/Class A/95 (2).png,Class A,3,25
+train/Class A/211 (2).png,Class A,2,26
+train/Class A/722.png,Class A,5,23
+train/Class A/201 (2).png,Class A,1,27
+train/Class A/25.png,Class A,2,26
+train/Class A/865.png,Class A,2,26
+train/Class A/31.png,Class A,3,25
+train/Class A/642.png,Class A,3,25
+train/Class A/124.png,Class A,1,27
+train/Class A/656.png,Class A,4,24
+train/Class A/105 (2).png,Class A,3,25
+train/Class A/497.png,Class A,4,24
+train/Class A/7058 (2).png,Class A,1,27
+train/Class A/326.png,Class A,2,26
+train/Class A/440.png,Class A,2,26
+train/Class A/454.png,Class A,6,22
+train/Class A/433.png,Class A,6,22
+train/Class A/143 (2).png,Class A,4,24
+train/Class A/341.png,Class A,5,23
+train/Class A/225 (2).png,Class A,1,27
+train/Class A/235 (2).png,Class A,1,27
+train/Class A/470 (2).png,Class A,2,26
+train/Class A/396.png,Class A,6,22
+train/Class A/518 (2).png,Class A,5,23
+train/Class A/382.png,Class A,2,26
+train/Class A/460 (2).png,Class A,5,23
+train/Class A/95.png,Class A,1,27
+train/Class A/81.png,Class A,3,25
+train/Class A/631.png,Class A,4,24
+train/Class A/143.png,Class A,3,25
+train/Class A/816.png,Class A,4,24
+train/Class A/56.png,Class A,2,26
+train/Class A/802.png,Class A,1,27
+train/Class A/42.png,Class A,4,24
+train/Class A/194.png,Class A,5,23
+train/Class A/7071.png,Class A,1,27
+train/Class A/7166 (2).png,Class A,2,26
+train/Class A/180.png,Class A,5,23
+train/Class A/198 (2).png,Class A,3,25
+train/Class A/779.png,Class A,5,23
+train/Class A/188 (2).png,Class A,1,27
+train/Class A/745.png,Class A,6,22
+train/Class A/989.png,Class A,2,26
+train/Class A/786.png,Class A,3,25
+train/Class A/792.png,Class A,1,27
+train/Class A/396 (2).png,Class A,2,26
+train/Class A/7111.png,Class A,4,24
+train/Class A/209.png,Class A,6,22
+train/Class A/547.png,Class A,2,26
+train/Class A/553.png,Class A,1,27
+train/Class A/257 (2).png,Class A,5,23
+train/Class A/584.png,Class A,1,27
+train/Class A/8034.png,Class A,5,23
+train/Class A/1004.png,Class A,6,22
+train/Class A/8021.png,Class A,3,25
+train/Class A/1005.png,Class A,2,26
+train/Class A/546.png,Class A,6,22
+train/Class A/220.png,Class A,2,26
+train/Class A/7110.png,Class A,3,25
+train/Class A/372 (2).png,Class A,2,26
+train/Class A/787.png,Class A,1,27
+train/Class A/527 (2).png,Class A,3,25
+train/Class A/963.png,Class A,5,23
+train/Class A/988.png,Class A,4,24
+train/Class A/744.png,Class A,5,23
+train/Class A/778.png,Class A,4,24
+train/Class A/181.png,Class A,2,26
+train/Class A/43.png,Class A,4,24
+train/Class A/803.png,Class A,6,22
+train/Class A/5.png,Class A,4,24
+train/Class A/57.png,Class A,1,27
+train/Class A/142.png,Class A,2,26
+train/Class A/630.png,Class A,4,24
+train/Class A/300 (2).png,Class A,2,26
+train/Class A/618.png,Class A,6,22
+train/Class A/80.png,Class A,4,24
+train/Class A/94.png,Class A,1,27
+train/Class A/268 (2).png,Class A,2,26
+train/Class A/383.png,Class A,2,26
+train/Class A/55 (2).png,Class A,1,27
+train/Class A/340.png,Class A,4,24
+train/Class A/7043 (2).png,Class A,3,25
+train/Class A/432.png,Class A,3,25
+train/Class A/7065 (2).png,Class A,6,22
+train/Class A/424.png,Class A,2,26
+train/Class A/430.png,Class A,3,25
+train/Class A/73 (2).png,Class A,1,27
+train/Class A/395.png,Class A,4,24
+train/Class A/82.png,Class A,2,26
+train/Class A/326 (2).png,Class A,2,26
+train/Class A/626.png,Class A,3,25
+train/Class A/632.png,Class A,1,27
+train/Class A/336 (2).png,Class A,2,26
+train/Class A/154.png,Class A,3,25
+train/Class A/138 (2).png,Class A,3,25
+train/Class A/41.png,Class A,1,27
+train/Class A/128 (2).png,Class A,1,27
+train/Class A/183.png,Class A,2,26
+train/Class A/7066.png,Class A,2,26
+train/Class A/746.png,Class A,4,24
+train/Class A/791.png,Class A,5,23
+train/Class A/469 (2).png,Class A,3,25
+train/Class A/501 (2).png,Class A,6,22
+train/Class A/479 (2).png,Class A,6,22
+train/Class A/7007 (2).png,Class A,2,26
+train/Class A/8023.png,Class A,6,22
+train/Class A/587.png,Class A,1,27
+train/Class A/1013.png,Class A,6,22
+train/Class A/107 (2).png,Class A,3,25
+train/Class A/1012.png,Class A,1,27
+train/Class A/586.png,Class A,5,23
+train/Class A/1006.png,Class A,3,25
+train/Class A/8022.png,Class A,2,26
+train/Class A/117 (2).png,Class A,1,27
+train/Class A/223.png,Class A,2,26
+train/Class A/545.png,Class A,1,27
+train/Class A/261 (2).png,Class A,6,22
+train/Class A/271 (2).png,Class A,1,27
+train/Class A/7107.png,Class A,4,24
+train/Class A/790.png,Class A,1,27
+train/Class A/747.png,Class A,5,23
+train/Class A/753.png,Class A,6,22
+train/Class A/7132 (2).png,Class A,1,27
+train/Class A/68.png,Class A,5,23
+train/Class A/828.png,Class A,5,23
+train/Class A/7067.png,Class A,5,23
+train/Class A/182.png,Class A,6,22
+train/Class A/54.png,Class A,5,23
+train/Class A/7038 (2).png,Class A,5,23
+train/Class A/7150 (2).png,Class A,6,22
+train/Class A/633.png,Class A,4,24
+train/Class A/155.png,Class A,6,22
+train/Class A/627.png,Class A,5,23
+train/Class A/83.png,Class A,3,25
+train/Class A/394.png,Class A,6,22
+train/Class A/203 (2).png,Class A,1,27
+train/Class A/213 (2).png,Class A,2,26
+train/Class A/431.png,Class A,5,23
+train/Class A/425.png,Class A,2,26
+train/Class A/347.png,Class A,3,25
+train/Class A/421.png,Class A,4,24
+train/Class A/435.png,Class A,4,24
+train/Class A/384.png,Class A,1,27
+train/Class A/390.png,Class A,4,24
+train/Class A/145.png,Class A,1,27
+train/Class A/151.png,Class A,6,22
+train/Class A/93.png,Class A,4,24
+train/Class A/838.png,Class A,5,23
+train/Class A/78.png,Class A,4,24
+train/Class A/186.png,Class A,6,22
+train/Class A/7063.png,Class A,4,24
+train/Class A/192.png,Class A,4,24
+train/Class A/7077.png,Class A,4,24
+train/Class A/804.png,Class A,3,25
+train/Class A/44.png,Class A,5,23
+train/Class A/3 (2).png,Class A,5,23
+train/Class A/2.png,Class A,5,23
+train/Class A/757.png,Class A,5,23
+train/Class A/743.png,Class A,5,23
+train/Class A/294 (2).png,Class A,4,24
+train/Class A/284 (2).png,Class A,5,23
+train/Class A/794.png,Class A,3,25
+train/Class A/7103.png,Class A,3,25
+train/Class A/958.png,Class A,4,24
+train/Class A/970.png,Class A,5,23
+train/Class A/233.png,Class A,4,24
+train/Class A/555.png,Class A,2,26
+train/Class A/569.png,Class A,1,27
+train/Class A/500 (2).png,Class A,1,27
+train/Class A/1002.png,Class A,5,23
+train/Class A/596.png,Class A,5,23
+train/Class A/468 (2).png,Class A,1,27
+train/Class A/582.png,Class A,2,26
+train/Class A/1016.png,Class A,3,25
+train/Class A/510 (2).png,Class A,3,25
+train/Class A/1017.png,Class A,3,25
+train/Class A/583.png,Class A,6,22
+train/Class A/597.png,Class A,4,24
+train/Class A/1003.png,Class A,5,23
+train/Class A/568.png,Class A,2,26
+train/Class A/540.png,Class A,3,25
+train/Class A/232.png,Class A,6,22
+train/Class A/965.png,Class A,3,25
+train/Class A/971.png,Class A,6,22
+train/Class A/116 (2).png,Class A,3,25
+train/Class A/795.png,Class A,5,23
+train/Class A/270 (2).png,Class A,1,27
+train/Class A/318 (2).png,Class A,4,24
+train/Class A/742.png,Class A,3,25
+train/Class A/756.png,Class A,6,22
+train/Class A/435 (2).png,Class A,1,27
+train/Class A/3.png,Class A,6,22
+train/Class A/45.png,Class A,3,25
+train/Class A/805.png,Class A,6,22
+train/Class A/193.png,Class A,5,23
+train/Class A/202 (2).png,Class A,1,27
+train/Class A/79.png,Class A,2,26
+train/Class A/839.png,Class A,1,27
+train/Class A/7089.png,Class A,5,23
+train/Class A/92.png,Class A,3,25
+train/Class A/7090 (2).png,Class A,2,26
+train/Class A/164 (2).png,Class A,2,26
+train/Class A/622.png,Class A,2,26
+train/Class A/144.png,Class A,5,23
+train/Class A/7151 (2).png,Class A,5,23
+train/Class A/385.png,Class A,3,25
+train/Class A/434.png,Class A,5,23
+train/Class A/352.png,Class A,4,24
+train/Class A/420.png,Class A,1,27
+train/Class A/350.png,Class A,5,23
+train/Class A/436.png,Class A,3,25
+train/Class A/422.png,Class A,4,24
+train/Class A/393.png,Class A,5,23
+train/Class A/7167 (2).png,Class A,5,23
+train/Class A/387.png,Class A,1,27
+train/Class A/152 (2).png,Class A,6,22
+train/Class A/152.png,Class A,1,27
+train/Class A/191.png,Class A,4,24
+train/Class A/185.png,Class A,1,27
+train/Class A/509 (2).png,Class A,6,22
+train/Class A/234 (2).png,Class A,2,26
+train/Class A/53.png,Class A,6,22
+train/Class A/1.png,Class A,5,23
+train/Class A/807.png,Class A,1,27
+train/Class A/998.png,Class A,6,22
+train/Class A/246 (2).png,Class A,6,22
+train/Class A/403 (2).png,Class A,2,26
+train/Class A/413 (2).png,Class A,6,22
+train/Class A/967.png,Class A,1,27
+train/Class A/973.png,Class A,4,24
+train/Class A/224.png,Class A,6,22
+train/Class A/556.png,Class A,5,23
+train/Class A/230.png,Class A,6,22
+train/Class A/581.png,Class A,2,26
+train/Class A/1001.png,Class A,4,24
+train/Class A/595.png,Class A,1,27
+train/Class A/8019.png,Class A,4,24
+train/Class A/8018.png,Class A,6,22
+train/Class A/1000.png,Class A,6,22
+train/Class A/1014.png,Class A,5,23
+train/Class A/580.png,Class A,5,23
+train/Class A/219.png,Class A,5,23
+train/Class A/557.png,Class A,5,23
+train/Class A/231.png,Class A,5,23
+train/Class A/225.png,Class A,4,24
+train/Class A/7129.png,Class A,2,26
+train/Class A/972.png,Class A,4,24
+train/Class A/966.png,Class A,4,24
+train/Class A/7020 (2).png,Class A,6,22
+train/Class A/26 (2).png,Class A,4,24
+train/Class A/755.png,Class A,2,26
+train/Class A/741.png,Class A,2,26
+train/Class A/999.png,Class A,2,26
+train/Class A/46.png,Class A,3,25
+train/Class A/806.png,Class A,4,24
+train/Class A/0.png,Class A,5,23
+train/Class A/184.png,Class A,6,22
+train/Class A/54 (2).png,Class A,2,26
+train/Class A/190.png,Class A,6,22
+train/Class A/91.png,Class A,6,22
+train/Class A/153.png,Class A,3,25
+train/Class A/386.png,Class A,6,22
+train/Class A/311 (2).png,Class A,6,22
+train/Class A/423.png,Class A,5,23
+train/Class A/351.png,Class A,3,25
+test/Class B/412.png,Class B,8,20
+test/Class B/8149.png,Class B,12,16
+test/Class B/7050.png,Class B,12,16
+test/Class B/200.png,Class B,13,15
+test/Class B/201.png,Class B,8,20
+test/Class B/147 (2).png,Class B,14,14
+test/Class B/363.png,Class B,12,16
+test/Class B/8062 (2).png,Class B,14,14
+test/Class B/8010 (2).png,Class B,11,17
+test/Class B/559.png,Class B,11,17
+test/Class B/202.png,Class B,8,20
+test/Class B/410.png,Class B,11,17
+test/Class B/366.png,Class B,9,19
+test/Class B/158.png,Class B,12,16
+test/Class B/7155 (2).png,Class B,12,16
+test/Class B/560.png,Class B,10,18
+test/Class B/8013.png,Class B,10,18
+test/Class B/159.png,Class B,7,21
+test/Class B/367.png,Class B,7,21
+test/Class B/417.png,Class B,9,19
+test/Class B/377 (2).png,Class B,8,20
+test/Class B/367 (2).png,Class B,11,17
+test/Class B/8.png,Class B,8,20
+test/Class B/577.png,Class B,8,20
+test/Class B/8010.png,Class B,9,19
+test/Class B/576.png,Class B,7,21
+test/Class B/204.png,Class B,11,17
+test/Class B/7068.png,Class B,13,15
+test/Class B/9.png,Class B,10,18
+test/Class B/471.png,Class B,12,16
+test/Class B/162 (2).png,Class B,11,17
+test/Class B/7153.png,Class B,13,15
+test/Class B/539.png,Class B,13,15
+test/Class B/289.png,Class B,8,20
+test/Class B/262.png,Class B,7,21
+test/Class B/538.png,Class B,9,19
+test/Class B/302.png,Class B,14,14
+test/Class B/470.png,Class B,11,17
+test/Class B/7024.png,Class B,13,15
+test/Class B/8061.png,Class B,11,17
+test/Class B/261.png,Class B,10,18
+test/Class B/338 (2).png,Class B,7,21
+test/Class B/8057 (2).png,Class B,13,15
+test/Class B/7186.png,Class B,7,21
+test/Class B/126 (2).png,Class B,11,17
+test/Class B/7025.png,Class B,13,15
+test/Class B/53 (2).png,Class B,12,16
+test/Class B/108 (2).png,Class B,7,21
+test/Class B/7009.png,Class B,9,19
+test/Class B/7182.png,Class B,7,21
+test/Class B/7155.png,Class B,9,19
+test/Class B/258.png,Class B,11,17
+test/Class B/7102 (2).png,Class B,10,18
+test/Class B/7154.png,Class B,7,21
+test/Class B/7183.png,Class B,11,17
+test/Class B/112.png,Class B,12,16
+test/Class B/338.png,Class B,10,18
+test/Class B/81 (2).png,Class B,7,21
+test/Class B/8107.png,Class B,7,21
+test/Class B/7022.png,Class B,9,19
+test/Class B/11.png,Class B,7,21
+test/Class B/529.png,Class B,8,20
+test/Class B/8155 (2).png,Class B,12,16
+test/Class B/7180.png,Class B,7,21
+test/Class B/10.png,Class B,11,17
+test/Class B/111.png,Class B,12,16
+test/Class B/8106.png,Class B,13,15
+test/Class B/444.png,Class B,14,14
+test/Class B/487.png,Class B,10,18
+test/Class B/8137.png,Class B,8,20
+test/Class B/108.png,Class B,10,18
+test/Class B/7012.png,Class B,14,14
+test/Class B/7006.png,Class B,7,21
+test/Class B/8094.png,Class B,12,16
+test/Class B/256.png,Class B,11,17
+test/Class B/281.png,Class B,7,21
+test/Class B/8057.png,Class B,9,19
+test/Class B/8056.png,Class B,11,17
+test/Class B/531.png,Class B,11,17
+test/Class B/200 (2).png,Class B,12,16
+test/Class B/378 (2).png,Class B,10,18
+test/Class B/243.png,Class B,10,18
+test/Class B/8095.png,Class B,9,19
+test/Class B/525.png,Class B,7,21
+test/Class B/445 (2).png,Class B,13,15
+test/Class B/109.png,Class B,14,14
+test/Class B/486.png,Class B,7,21
+test/Class B/445.png,Class B,12,16
+test/Class B/337.png,Class B,11,17
+test/Class B/8108.png,Class B,10,18
+test/Class B/8 (2).png,Class B,11,17
+test/Class B/123.png,Class B,8,20
+test/Class B/527.png,Class B,9,19
+test/Class B/8040.png,Class B,13,15
+test/Class B/8054.png,Class B,10,18
+test/Class B/7138 (2).png,Class B,7,21
+test/Class B/283.png,Class B,9,19
+test/Class B/46 (2).png,Class B,12,16
+test/Class B/7010.png,Class B,10,18
+test/Class B/23.png,Class B,12,16
+test/Class B/324.png,Class B,14,14
+test/Class B/456.png,Class B,8,20
+test/Class B/7148.png,Class B,7,21
+test/Class B/8092.png,Class B,13,15
+test/Class B/244.png,Class B,10,18
+test/Class B/302 (2).png,Class B,14,14
+test/Class B/286.png,Class B,9,19
+test/Class B/8093.png,Class B,7,21
+test/Class B/7149.png,Class B,7,21
+test/Class B/486 (2).png,Class B,11,17
+test/Class B/443.png,Class B,13,15
+test/Class B/218 (2).png,Class B,12,16
+test/Class B/325.png,Class B,13,15
+test/Class B/455.png,Class B,12,16
+test/Class B/285.png,Class B,9,19
+test/Class B/85 (2).png,Class B,10,18
+test/Class B/483.png,Class B,14,14
+test/Class B/396.png,Class B,12,16
+test/Class B/81.png,Class B,7,21
+test/Class B/7104.png,Class B,13,15
+test/Class B/7064.png,Class B,13,15
+test/Class B/156.png,Class B,12,16
+test/Class B/80.png,Class B,14,14
+test/Class B/8155.png,Class B,10,18
+test/Class B/484 (2).png,Class B,8,20
+test/Class B/340.png,Class B,7,21
+test/Class B/8157.png,Class B,8,20
+test/Class B/395.png,Class B,8,20
+test/Class B/7066.png,Class B,10,18
+test/Class B/578.png,Class B,9,19
+test/Class B/11 (2).png,Class B,14,14
+test/Class B/579.png,Class B,11,17
+test/Class B/7067.png,Class B,8,20
+test/Class B/446 (2).png,Class B,13,15
+test/Class B/8195.png,Class B,9,19
+test/Class B/337 (2).png,Class B,10,18
+test/Class B/409.png,Class B,14,14
+test/Class B/8152.png,Class B,7,21
+test/Class B/7064 (2).png,Class B,14,14
+test/Class B/44.png,Class B,10,18
+test/Class B/72 (2).png,Class B,12,16
+test/Class B/7117.png,Class B,8,20
+test/Class B/7103.png,Class B,8,20
+test/Class B/582.png,Class B,11,17
+test/Class B/8152 (2).png,Class B,12,16
+test/Class B/540.png,Class B,8,20
+test/Class B/7116.png,Class B,10,18
+test/Class B/45.png,Class B,9,19
+test/Class B/86 (2).png,Class B,12,16
+test/Class B/86.png,Class B,9,19
+test/Class B/408.png,Class B,10,18
+test/Class B/7060.png,Class B,11,17
+test/Class B/53.png,Class B,12,16
+test/Class B/256 (2).png,Class B,12,16
+test/Class B/218.png,Class B,11,17
+test/Class B/7105 (2).png,Class B,11,17
+test/Class B/363 (2).png,Class B,11,17
+test/Class B/7115.png,Class B,11,17
+test/Class B/46.png,Class B,8,20
+test/Class B/52.png,Class B,9,19
+test/Class B/147.png,Class B,12,16
+test/Class B/153.png,Class B,7,21
+test/Class B/8193.png,Class B,8,20
+test/Class D/374.png,Class D,27,1
+test/Class D/9158 (2).png,Class D,26,2
+test/Class D/162.png,Class D,27,1
+test/Class D/9135.png,Class D,28,0
+test/Class D/566.png,Class D,24,4
+test/Class D/8029.png,Class D,26,2
+test/Class D/215.png,Class D,28,0
+test/Class D/9134.png,Class D,23,5
+test/Class D/9054.png,Class D,25,3
+test/Class D/413.png,Class D,23,5
+test/Class D/375.png,Class D,23,5
+test/Class D/9136.png,Class D,27,1
+test/Class D/8200.png,Class D,27,1
+test/Class D/322 (2).png,Class D,26,2
+test/Class D/570.png,Class D,24,4
+test/Class D/8201.png,Class D,26,2
+test/Class D/9043.png,Class D,26,2
+test/Class D/376.png,Class D,27,1
+test/Class D/414.png,Class D,25,3
+test/Class D/372.png,Class D,25,3
+test/Class D/428.png,Class D,28,0
+test/Class D/164.png,Class D,24,4
+test/Class D/9053.png,Class D,24,4
+test/Class D/9127.png,Class D,28,0
+test/Class D/560.png,Class D,24,4
+test/Class D/216 (2).png,Class D,27,1
+test/Class D/9052.png,Class D,23,5
+test/Class D/165.png,Class D,23,5
+test/Class D/8199.png,Class D,24,4
+test/Class D/415.png,Class D,25,3
+test/Class D/417.png,Class D,27,1
+test/Class D/9021 (2).png,Class D,24,4
+test/Class D/9078.png,Class D,23,5
+test/Class D/9044.png,Class D,25,3
+test/Class D/9124.png,Class D,28,0
+test/Class D/9051.png,Class D,27,1
+test/Class D/9045.png,Class D,28,0
+test/Class D/9079.png,Class D,26,2
+test/Class D/166.png,Class D,24,4
+test/Class D/370.png,Class D,28,0
+test/Class D/416.png,Class D,27,1
+test/Class D/14.png,Class D,27,1
+test/Class D/9022.png,Class D,28,0
+test/Class D/277.png,Class D,24,4
+test/Class D/8063.png,Class D,28,0
+test/Class D/16 (2).png,Class D,23,5
+test/Class D/9157.png,Class D,26,2
+test/Class D/9180.png,Class D,27,1
+test/Class D/15.png,Class D,27,1
+test/Class D/9077 (2).png,Class D,26,2
+test/Class D/458.png,Class D,23,5
+test/Class D/102.png,Class D,23,5
+test/Class D/9021.png,Class D,23,5
+test/Class D/9155.png,Class D,26,2
+test/Class D/8061.png,Class D,26,2
+test/Class D/275.png,Class D,28,0
+test/Class D/9106 (2).png,Class D,27,1
+test/Class D/9020.png,Class D,27,1
+test/Class D/16.png,Class D,27,1
+test/Class D/339.png,Class D,25,3
+test/Class D/9187.png,Class D,26,2
+test/Class D/9178.png,Class D,27,1
+test/Class D/271.png,Class D,24,4
+test/Class D/8065.png,Class D,27,1
+test/Class D/270.png,Class D,24,4
+test/Class D/9179.png,Class D,25,3
+test/Class D/9019.png,Class D,25,3
+test/Class D/8034 (2).png,Class D,28,0
+test/Class D/338.png,Class D,24,4
+test/Class D/460.png,Class D,28,0
+test/Class D/104.png,Class D,25,3
+test/Class D/9147.png,Class D,25,3
+test/Class D/17 (2).png,Class D,28,0
+test/Class D/273.png,Class D,26,2
+test/Class D/105.png,Class D,23,5
+test/Class D/478.png,Class D,28,0
+test/Class D/9188.png,Class D,25,3
+test/Class D/9177.png,Class D,25,3
+test/Class D/518.png,Class D,25,3
+test/Class D/525.png,Class D,25,3
+test/Class D/519.png,Class D,27,1
+test/Class D/8065 (2).png,Class D,27,1
+test/Class D/321.png,Class D,27,1
+test/Class D/9000.png,Class D,24,4
+test/Class D/9028.png,Class D,28,0
+test/Class D/9029.png,Class D,25,3
+test/Class D/334.png,Class D,26,2
+test/Class D/320.png,Class D,23,5
+test/Class D/456.png,Class D,26,2
+test/Class D/481.png,Class D,26,2
+test/Class D/33.png,Class D,25,3
+test/Class D/522.png,Class D,24,4
+test/Class D/278.png,Class D,26,2
+test/Class D/293.png,Class D,23,5
+test/Class D/523.png,Class D,25,3
+test/Class D/9158.png,Class D,24,4
+test/Class D/319.png,Class D,24,4
+test/Class D/482.png,Class D,25,3
+test/Class D/9000 (2).png,Class D,25,3
+test/Class D/9178 (2).png,Class D,27,1
+test/Class D/509.png,Class D,23,5
+test/Class D/520.png,Class D,28,0
+test/Class D/9157 (2).png,Class D,28,0
+test/Class D/9135 (2).png,Class D,25,3
+test/Class D/483.png,Class D,27,1
+test/Class D/369.png,Class D,23,5
+test/Class D/9114.png,Class D,26,2
+test/Class D/235.png,Class D,28,0
+test/Class D/584.png,Class D,24,4
+test/Class D/9079 (2).png,Class D,28,0
+test/Class D/585.png,Class D,26,2
+test/Class D/356.png,Class D,23,5
+test/Class D/9077.png,Class D,28,0
+test/Class D/9103.png,Class D,23,5
+test/Class D/236.png,Class D,23,5
+test/Class D/107 (2).png,Class D,24,4
+test/Class D/9127 (2).png,Class D,28,0
+test/Class D/237.png,Class D,23,5
+test/Class D/9102.png,Class D,24,4
+test/Class D/9076.png,Class D,23,5
+test/Class D/83.png,Class D,23,5
+test/Class D/431.png,Class D,25,3
+test/Class D/9155 (2).png,Class D,25,3
+test/Class D/8191.png,Class D,26,2
+test/Class D/87.png,Class D,28,0
+test/Class D/186.png,Class D,28,0
+test/Class D/233.png,Class D,23,5
+test/Class D/569.png,Class D,28,0
+test/Class D/8033.png,Class D,23,5
+test/Class D/568.png,Class D,23,5
+test/Class D/9113.png,Class D,27,1
+test/Class D/8151.png,Class D,24,4
+test/Class D/185.png,Class D,23,5
+test/Class D/9068 (2).png,Class D,27,1
+test/Class D/9105.png,Class D,25,3
+test/Class D/231.png,Class D,24,4
+test/Class D/9104.png,Class D,28,0
+test/Class D/184.png,Class D,28,0
+test/Class C/8149.png,Class C,18,10
+test/Class C/77.png,Class C,22,6
+test/Class C/9069.png,Class C,19,9
+test/Class C/214.png,Class C,21,7
+test/Class C/8001.png,Class C,22,6
+test/Class C/8189.png,Class C,15,13
+test/Class C/8200.png,Class C,15,13
+test/Class C/8002.png,Class C,15,13
+test/Class C/9094.png,Class C,17,11
+test/Class C/362.png,Class C,16,12
+test/Class C/8205.png,Class C,19,9
+test/Class C/212.png,Class C,17,11
+test/Class C/8001 (2).png,Class C,20,8
+test/Class C/213.png,Class C,16,12
+test/Class C/9126.png,Class C,15,13
+test/Class C/9065 (2).png,Class C,18,10
+test/Class C/8204.png,Class C,22,6
+test/Class C/617.png,Class C,15,13
+test/Class C/8087 (2).png,Class C,20,8
+test/Class C/365.png,Class C,21,7
+test/Class C/8027 (2).png,Class C,16,12
+test/Class C/9131.png,Class C,20,8
+test/Class C/8159.png,Class C,21,7
+test/Class C/8045 (2).png,Class C,21,7
+test/Class C/364.png,Class C,18,10
+test/Class C/370.png,Class C,17,11
+test/Class C/471.png,Class C,22,6
+test/Class C/8102.png,Class C,15,13
+test/Class C/115.png,Class C,20,8
+test/Class C/9156.png,Class C,20,8
+test/Class C/8089.png,Class C,20,8
+test/Class C/511.png,Class C,22,6
+test/Class C/8062.png,Class C,21,7
+test/Class C/8063.png,Class C,20,8
+test/Class C/29.png,Class C,22,6
+test/Class C/464.png,Class C,15,13
+test/Class C/116.png,Class C,17,11
+test/Class C/260.png,Class C,22,6
+test/Class C/8049.png,Class C,19,9
+test/Class C/8060.png,Class C,17,11
+test/Class C/9154.png,Class C,21,7
+test/Class C/463.png,Class C,18,10
+test/Class C/8104.png,Class C,17,11
+test/Class C/488.png,Class C,15,13
+test/Class C/8205 (2).png,Class C,20,8
+test/Class C/8064.png,Class C,16,12
+test/Class C/8059.png,Class C,20,8
+test/Class C/8024 (2).png,Class C,22,6
+test/Class C/462.png,Class C,20,8
+test/Class C/8002 (2).png,Class C,19,9
+test/Class C/460.png,Class C,22,6
+test/Class C/110.png,Class C,20,8
+test/Class C/111 (2).png,Class C,18,10
+test/Class C/266.png,Class C,18,10
+test/Class C/9131 (2).png,Class C,19,9
+test/Class C/299.png,Class C,17,11
+test/Class C/8060 (2).png,Class C,21,7
+test/Class C/298.png,Class C,15,13
+test/Class C/515.png,Class C,17,11
+test/Class C/295.png,Class C,22,6
+test/Class C/9156 (2).png,Class C,19,9
+test/Class C/109.png,Class C,15,13
+test/Class C/8122.png,Class C,22,6
+test/Class C/9160.png,Class C,19,9
+test/Class C/269.png,Class C,15,13
+test/Class C/8031 (2).png,Class C,20,8
+test/Class C/8135.png,Class C,20,8
+test/Class C/27.png,Class C,17,11
+test/Class C/536.png,Class C,19,9
+test/Class C/8045.png,Class C,19,9
+test/Class C/8050.png,Class C,16,12
+test/Class C/8044.png,Class C,22,6
+test/Class C/8087.png,Class C,20,8
+test/Class C/35 (2).png,Class C,19,9
+test/Class C/24.png,Class C,21,7
+test/Class C/8046.png,Class C,22,6
+test/Class C/8084.png,Class C,19,9
+test/Class C/534.png,Class C,18,10
+test/Class C/8090.png,Class C,22,6
+test/Class C/8064 (2).png,Class C,18,10
+test/Class C/31.png,Class C,18,10
+test/Class C/8197.png,Class C,22,6
+test/Class C/386 (2).png,Class C,17,11
+test/Class C/209.png,Class C,19,9
+test/Class C/181.png,Class C,21,7
+test/Class C/618.png,Class C,18,10
+test/Class C/8141.png,Class C,18,10
+test/Class C/9063.png,Class C,20,8
+test/Class C/183.png,Class C,18,10
+test/Class C/544.png,Class C,16,12
+test/Class C/9094 (2).png,Class C,21,7
+test/Class C/54.png,Class C,16,12
+test/Class C/8142.png,Class C,15,13
+test/Class C/357.png,Class C,19,9
+test/Class C/435.png,Class C,16,12
+test/Class C/8048 (2).png,Class C,18,10
+test/Class C/8146.png,Class C,15,13
+test/Class C/390.png,Class C,15,13
+test/Class C/8189 (2).png,Class C,16,12
+test/Class C/9066.png,Class C,20,8
+test/Class C/8033.png,Class C,16,12
+test/Class C/8027.png,Class C,15,13
+test/Class C/260 (2).png,Class C,21,7
+test/Class C/79.png,Class C,21,7
+test/Class C/178.png,Class C,18,10
+test/Class C/620.png,Class C,16,12
+test/Class C/1.png,Class C,18,10
+test/Class C/9065.png,Class C,19,9
+test/Class C/542.png,Class C,15,13
+test/Class C/8025.png,Class C,19,9
+test/Class C/8024.png,Class C,22,6
+test/Class C/544 (2).png,Class C,19,9
+test/Class A/412.png,Class A,6,22
+test/Class A/638.png,Class A,1,27
+test/Class A/189.png,Class A,2,26
+test/Class A/63.png,Class A,1,27
+test/Class A/980.png,Class A,3,25
+test/Class A/994.png,Class A,4,24
+test/Class A/943.png,Class A,4,24
+test/Class A/228.png,Class A,1,27
+test/Class A/314 (2).png,Class A,6,22
+test/Class A/566.png,Class A,3,25
+test/Class A/214.png,Class A,1,27
+test/Class A/1025.png,Class A,6,22
+test/Class A/1024.png,Class A,5,23
+test/Class A/7172 (2).png,Class A,4,24
+test/Class A/215.png,Class A,5,23
+test/Class A/288 (2).png,Class A,4,24
+test/Class A/474 (2).png,Class A,2,26
+test/Class A/7125.png,Class A,4,24
+test/Class A/942.png,Class A,4,24
+test/Class A/157 (2).png,Class A,2,26
+test/Class A/765.png,Class A,1,27
+test/Class A/62.png,Class A,1,27
+test/Class A/188.png,Class A,2,26
+test/Class A/605.png,Class A,4,24
+test/Class A/89.png,Class A,3,25
+test/Class A/639.png,Class A,3,25
+test/Class A/392 (2).png,Class A,2,26
+test/Class A/439.png,Class A,3,25
+test/Class A/7084.png,Class A,3,25
+test/Class A/607.png,Class A,5,23
+test/Class A/7085 (2).png,Class A,6,22
+test/Class A/767.png,Class A,6,22
+test/Class A/798.png,Class A,6,22
+test/Class A/565.png,Class A,4,24
+test/Class A/1026.png,Class A,2,26
+test/Class A/216.png,Class A,6,22
+test/Class A/7126.png,Class A,4,24
+test/Class A/799.png,Class A,2,26
+test/Class A/766.png,Class A,1,27
+test/Class A/982.png,Class A,4,24
+test/Class A/61.png,Class A,1,27
+test/Class A/7085.png,Class A,5,23
+test/Class A/606.png,Class A,3,25
+test/Class A/389.png,Class A,6,22
+test/Class A/438.png,Class A,3,25
+test/Class A/366.png,Class A,5,23
+test/Class A/112 (2).png,Class A,1,27
+test/Class A/7095.png,Class A,4,24
+test/Class A/158.png,Class A,5,23
+test/Class A/59.png,Class A,1,27
+test/Class A/831.png,Class A,2,26
+test/Class A/992.png,Class A,5,23
+test/Class A/979.png,Class A,3,25
+test/Class A/945.png,Class A,3,25
+test/Class A/574.png,Class A,4,24
+test/Class A/206.png,Class A,2,26
+test/Class A/1023.png,Class A,6,22
+test/Class A/206 (2).png,Class A,4,24
+test/Class A/1022.png,Class A,3,25
+test/Class A/575.png,Class A,1,27
+test/Class A/944.png,Class A,2,26
+test/Class A/7123.png,Class A,6,22
+test/Class A/7137.png,Class A,4,24
+test/Class A/993.png,Class A,1,27
+test/Class A/333 (2).png,Class A,6,22
+test/Class A/830.png,Class A,2,26
+test/Class A/159.png,Class A,3,25
+test/Class A/165.png,Class A,1,27
+test/Class A/398.png,Class A,2,26
+test/Class A/367.png,Class A,2,26
+test/Class A/417.png,Class A,2,26
+test/Class A/359.png,Class A,3,25
+test/Class A/7034 (2).png,Class A,1,27
+test/Class A/7096.png,Class A,4,24
+test/Class A/179 (2).png,Class A,3,25
+test/Class A/8.png,Class A,6,22
+test/Class A/438 (2).png,Class A,6,22
+test/Class A/205.png,Class A,1,27
+test/Class A/577.png,Class A,4,24
+test/Class A/8039.png,Class A,1,27
+test/Class A/1021.png,Class A,1,27
+test/Class A/475 (2).png,Class A,3,25
+test/Class A/576.png,Class A,1,27
+test/Class A/947.png,Class A,5,23
+test/Class A/827.png,Class A,2,26
+test/Class A/9.png,Class A,6,22
+test/Class A/358.png,Class A,3,25
+test/Class A/417 (2).png,Class A,5,23
+test/Class A/416.png,Class A,1,27
+test/Class A/465.png,Class A,5,23
+test/Class A/29 (2).png,Class A,4,24
+test/Class A/7086 (2).png,Class A,1,27
+test/Class A/840.png,Class A,5,23
+test/Class A/868.png,Class A,6,22
+test/Class A/28.png,Class A,3,25
+test/Class A/7033.png,Class A,6,22
+test/Class A/110 (2).png,Class A,1,27
+test/Class A/263.png,Class A,1,27
+test/Class A/343 (2).png,Class A,5,23
+test/Class A/29.png,Class A,3,25
+test/Class A/869.png,Class A,2,26
+test/Class A/7062 (2).png,Class A,4,24
+test/Class A/841.png,Class A,4,24
+test/Class A/331 (2).png,Class A,6,22
+test/Class A/314.png,Class A,6,22
+test/Class A/7024.png,Class A,5,23
+test/Class A/710.png,Class A,6,22
+test/Class A/7025.png,Class A,2,26
+test/Class A/16.png,Class A,2,26
+test/Class A/842.png,Class A,4,24
+test/Class A/473.png,Class A,4,24
+test/Class A/463.png,Class A,1,27
+test/Class A/305.png,Class A,3,25
+test/Class A/649.png,Class A,4,24
+test/Class A/543 (2).png,Class A,4,24
+test/Class A/306 (2).png,Class A,4,24
+test/Class A/265.png,Class A,5,23
+test/Class A/502.png,Class A,2,26
+test/Class A/933.png,Class A,5,23
+test/Class A/7154.png,Class A,4,24
+test/Class A/7034.png,Class A,6,22
+test/Class A/648.png,Class A,2,26
+test/Class A/112.png,Class A,3,25
+test/Class A/474.png,Class A,1,27
+test/Class A/312.png,Class A,1,27
+test/Class A/306.png,Class A,4,24
+test/Class A/448.png,Class A,3,25
+test/Class A/440 (2).png,Class A,1,27
+test/Class A/11.png,Class A,2,26
+test/Class A/28 (2).png,Class A,3,25
+test/Class A/38 (2).png,Class A,3,25
+test/Class A/7156.png,Class A,1,27
+test/Class A/266.png,Class A,6,22
+test/Class A/514.png,Class A,2,26
+test/Class A/515.png,Class A,5,23
+test/Class A/501.png,Class A,5,23
+test/Class A/267.png,Class A,6,22
+test/Class A/7157.png,Class A,2,26
+test/Class A/10.png,Class A,5,23
+test/Class A/7023.png,Class A,5,23
+test/Class A/139.png,Class A,5,23
+test/Class A/111.png,Class A,1,27
+test/Class A/449.png,Class A,6,22
+test/Class A/389 (2).png,Class A,5,23
+test/Class A/493.png,Class A,6,22
+test/Class A/120.png,Class A,4,24
+test/Class A/901.png,Class A,6,22
+test/Class A/7172.png,Class A,3,25
+test/Class A/524.png,Class A,6,22
+test/Class A/256.png,Class A,2,26
+test/Class A/525.png,Class A,4,24
+test/Class A/914.png,Class A,1,27
+test/Class A/900.png,Class A,2,26
+test/Class A/7059 (2).png,Class A,6,22
+test/Class A/653.png,Class A,5,23
+test/Class A/492.png,Class A,3,25
+test/Class A/411 (2).png,Class A,5,23
+test/Class A/679.png,Class A,3,25
+test/Class A/651.png,Class A,1,27
+test/Class A/36.png,Class A,3,25
+test/Class A/692.png,Class A,1,27
+test/Class A/725.png,Class A,5,23
+test/Class A/902.png,Class A,6,22
+test/Class A/473 (2).png,Class A,6,22
+test/Class A/255.png,Class A,3,25
+test/Class A/8040.png,Class A,6,22
+test/Class A/254.png,Class A,2,26
+test/Class A/7170.png,Class A,6,22
+test/Class A/903.png,Class A,5,23
+test/Class A/313 (2).png,Class A,2,26
+test/Class A/724.png,Class A,3,25
+test/Class A/693.png,Class A,2,26
+test/Class A/37.png,Class A,2,26
+test/Class A/650.png,Class A,2,26
+test/Class A/678.png,Class A,1,27
+test/Class A/334.png,Class A,2,26
+test/Class A/9 (2).png,Class A,4,24
+test/Class A/132.png,Class A,3,25
+test/Class A/133 (2).png,Class A,3,25
+test/Class A/873.png,Class A,5,23
+test/Class A/720.png,Class A,2,26
+test/Class A/237 (2).png,Class A,3,25
+test/Class A/7160.png,Class A,1,27
+test/Class A/141 (2).png,Class A,6,22
+test/Class A/913.png,Class A,2,26
+test/Class A/244.png,Class A,2,26
+test/Class A/522.png,Class A,4,24
+test/Class A/287.png,Class A,1,27
+test/Class A/286.png,Class A,3,25
+test/Class A/523.png,Class A,5,23
+test/Class A/912.png,Class A,4,24
+test/Class A/709.png,Class A,2,26
+test/Class A/721.png,Class A,3,25
+test/Class A/872.png,Class A,5,23
+test/Class A/682.png,Class A,1,27
+test/Class A/7023 (2).png,Class A,4,24
+test/Class A/494.png,Class A,6,22
+test/Class A/331.png,Class A,1,27
+test/Class A/333.png,Class A,1,27
+test/Class A/496.png,Class A,3,25
+test/Class A/158 (2).png,Class A,4,24
+test/Class A/680.png,Class A,2,26
+test/Class A/870.png,Class A,1,27
+test/Class A/287 (2).png,Class A,2,26
+test/Class A/723.png,Class A,1,27
+test/Class A/61 (2).png,Class A,4,24
+test/Class A/521.png,Class A,2,26
+test/Class A/284.png,Class A,6,22
+test/Class A/285.png,Class A,3,25
+test/Class A/871.png,Class A,5,23
+test/Class A/681.png,Class A,5,23
+test/Class A/859.png,Class A,2,26
+test/Class A/369.png,Class A,1,27
+test/Class A/619.png,Class A,5,23
+test/Class A/157.png,Class A,4,24
+test/Class A/7059.png,Class A,5,23
+test/Class A/751.png,Class A,4,24
+test/Class A/976.png,Class A,1,27
+test/Class A/235.png,Class A,1,27
+test/Class A/121 (2).png,Class A,2,26
+test/Class A/1011.png,Class A,3,25
+test/Class A/8009.png,Class A,1,27
+test/Class A/234.png,Class A,4,24
+test/Class A/208.png,Class A,4,24
+test/Class A/750.png,Class A,1,27
+test/Class A/7058.png,Class A,4,24
+test/Class A/156.png,Class A,3,25
+test/Class A/397.png,Class A,3,25
+test/Class A/368.png,Class A,1,27
+test/Class A/418.png,Class A,4,24
+test/Class A/181 (2).png,Class A,6,22
+test/Class A/342.png,Class A,1,27
+test/Class A/356.png,Class A,1,27
+test/Class A/96.png,Class A,2,26
+test/Class A/140.png,Class A,6,22
+test/Class A/801.png,Class A,6,22
+test/Class A/829.png,Class A,4,24
+test/Class A/752.png,Class A,1,27
+test/Class A/949.png,Class A,2,26
+test/Class A/785.png,Class A,6,22
+test/Class A/578.png,Class A,2,26
+test/Class A/295 (2).png,Class A,3,25
+test/Class A/550.png,Class A,4,24
+test/Class A/236.png,Class A,3,25
+test/Class A/544.png,Class A,5,23
+test/Class A/8037.png,Class A,6,22
+test/Class A/551.png,Class A,5,23
+test/Class A/237.png,Class A,3,25
+test/Class A/784.png,Class A,4,24
+test/Class A/6.png,Class A,4,24
+test/Class A/800.png,Class A,5,23
+test/Class A/141.png,Class A,3,25
+test/Class A/7098.png,Class A,1,27
+test/Class A/417 - copia.png,Class A,6,22
+test/Class A/139 (2).png,Class A,6,22
+test/Class A/87.png,Class A,1,27
+test/Class A/179.png,Class A,4,24
+test/Class A/7117.png,Class A,1,27
+test/Class A/8032.png,Class A,3,25
+test/Class A/7123 (2).png,Class A,3,25
+test/Class A/51.png,Class A,5,23
+test/Class A/7062.png,Class A,1,27
+test/Class A/187.png,Class A,6,22
+test/Class A/86.png,Class A,5,23
+test/Class A/391.png,Class A,2,26
+test/Class A/620.png,Class A,3,25
+test/Class A/608.png,Class A,3,25
+test/Class A/90.png,Class A,2,26
+test/Class A/84.png,Class A,6,22
+test/Class A/754.png,Class A,2,26
+test/Class A/7128.png,Class A,1,27
+test/Class A/120 (2).png,Class A,2,26
+test/Class A/542.png,Class A,4,24
+test/Class A/189 (2).png,Class A,1,27
+test/Class A/8025.png,Class A,5,23
+test/Class A/543.png,Class A,6,22
+test/Class A/796.png,Class A,3,25
+test/Class A/52.png,Class A,4,24
+test/Class A/7049.png,Class A,4,24
+test/Class A/7061.png,Class A,2,26
+test/Class A/495 (2).png,Class A,5,23
+test/Class A/85.png,Class A,6,22
+test/Class A/609.png,Class A,5,23
+test/Class A/392.png,Class A,4,24
+test/Class A/544 (2).png,Class A,3,25
+test/Class A/437.png,Class A,3,25
+validation/Class B/8175.png,Class B,11,17
+validation/Class B/7087.png,Class B,11,17
+validation/Class B/162.png,Class B,11,17
+validation/Class B/7044.png,Class B,10,18
+validation/Class B/7124.png,Class B,11,17
+validation/Class B/8015.png,Class B,14,14
+validation/Class B/7162 (2).png,Class B,11,17
+validation/Class B/8202.png,Class B,9,19
+validation/Class B/7045.png,Class B,10,18
+validation/Class B/605.png,Class B,9,19
+validation/Class B/8174.png,Class B,11,17
+validation/Class B/8176.png,Class B,9,19
+validation/Class B/8072 (2).png,Class B,13,15
+validation/Class B/613.png,Class B,13,15
+validation/Class B/175.png,Class B,8,20
+validation/Class B/7047.png,Class B,7,21
+validation/Class B/7133.png,Class B,12,16
+validation/Class B/8017.png,Class B,8,20
+validation/Class B/8201.png,Class B,8,20
+validation/Class B/612.png,Class B,14,14
+validation/Class B/174.png,Class B,7,21
+validation/Class B/7091.png,Class B,12,16
+validation/Class B/505 (2).png,Class B,13,15
+validation/Class B/8177.png,Class B,14,14
+validation/Class B/362.png,Class B,9,19
+validation/Class B/8188.png,Class B,9,19
+validation/Class B/274 (2).png,Class B,14,14
+validation/Class B/428.png,Class B,14,14
+validation/Class B/7136.png,Class B,9,19
+validation/Class B/7122.png,Class B,9,19
+validation/Class B/7137.png,Class B,14,14
+validation/Class B/429.png,Class B,7,21
+validation/Class B/173.png,Class B,8,20
+validation/Class B/7082.png,Class B,11,17
+validation/Class B/601.png,Class B,13,15
+validation/Class B/428 (2).png,Class B,13,15
+validation/Class B/7120.png,Class B,7,21
+validation/Class B/7163 (2).png,Class B,13,15
+validation/Class B/199.png,Class B,11,17
+validation/Class B/98.png,Class B,10,18
+validation/Class B/600.png,Class B,11,17
+validation/Class B/614.png,Class B,10,18
+validation/Class B/8171.png,Class B,13,15
+validation/Class B/505.png,Class B,8,20
+validation/Class B/511.png,Class B,14,14
+validation/Class B/8077.png,Class B,10,18
+validation/Class B/8088.png,Class B,14,14
+validation/Class B/29.png,Class B,7,21
+validation/Class B/128.png,Class B,10,18
+validation/Class B/8136 (2).png,Class B,12,16
+validation/Class B/458.png,Class B,12,16
+validation/Class B/466.png,Class B,11,17
+validation/Class B/7044 (2).png,Class B,13,15
+validation/Class B/7030.png,Class B,7,21
+validation/Class B/7178.png,Class B,13,15
+validation/Class B/99 (2).png,Class B,10,18
+validation/Class B/274.png,Class B,10,18
+validation/Class B/381 (2).png,Class B,11,17
+validation/Class B/391 (2).png,Class B,9,19
+validation/Class B/7179.png,Class B,12,16
+validation/Class B/467 (2).png,Class B,13,15
+validation/Class B/467.png,Class B,13,15
+validation/Class B/305.png,Class B,11,17
+validation/Class B/8110.png,Class B,12,16
+validation/Class B/8079 (2).png,Class B,10,18
+validation/Class B/7169.png,Class B,10,18
+validation/Class B/503.png,Class B,10,18
+validation/Class B/127 (2).png,Class B,11,17
+validation/Class B/270.png,Class B,13,15
+validation/Class B/106.png,Class B,10,18
+validation/Class B/304.png,Class B,7,21
+validation/Class B/173 (2).png,Class B,7,21
+validation/Class B/7134 (2).png,Class B,9,19
+validation/Class B/8072.png,Class B,10,18
+validation/Class B/273.png,Class B,12,16
+validation/Class B/8112.png,Class B,13,15
+validation/Class B/512 (2).png,Class B,11,17
+validation/Class B/242.png,Class B,10,18
+validation/Class B/524.png,Class B,9,19
+validation/Class B/280.png,Class B,14,14
+validation/Class B/8136.png,Class B,14,14
+validation/Class B/323.png,Class B,7,21
+validation/Class B/321.png,Class B,8,20
+validation/Class B/8134.png,Class B,12,16
+validation/Class B/69 (2).png,Class B,14,14
+validation/Class B/269.png,Class B,9,19
+validation/Class B/241.png,Class B,7,21
+validation/Class B/140 (2).png,Class B,9,19
+validation/Class B/240.png,Class B,11,17
+validation/Class B/442.png,Class B,10,18
+validation/Class B/8131.png,Class B,8,20
+validation/Class B/126.png,Class B,12,16
+validation/Class B/27.png,Class B,14,14
+validation/Class B/7028.png,Class B,11,17
+validation/Class B/8078.png,Class B,11,17
+validation/Class B/57 (2).png,Class B,8,20
+validation/Class B/26.png,Class B,14,14
+validation/Class B/127.png,Class B,14,14
+validation/Class B/8130.png,Class B,8,20
+validation/Class B/319.png,Class B,9,19
+validation/Class B/457.png,Class B,9,19
+validation/Class B/356 (2).png,Class B,11,17
+validation/Class B/71 (2).png,Class B,10,18
+validation/Class B/7163.png,Class B,9,19
+validation/Class B/508.png,Class B,9,19
+validation/Class B/8090.png,Class B,13,15
+validation/Class B/7162.png,Class B,7,21
+validation/Class B/25.png,Class B,12,16
+validation/Class B/31.png,Class B,13,15
+validation/Class B/263 (2).png,Class B,9,19
+validation/Class B/468.png,Class B,12,16
+validation/Class B/355.png,Class B,14,14
+validation/Class B/341.png,Class B,10,18
+validation/Class B/8032 (2).png,Class B,14,14
+validation/Class B/56.png,Class B,10,18
+validation/Class B/221.png,Class B,12,16
+validation/Class B/553.png,Class B,7,21
+validation/Class B/8020.png,Class B,10,18
+validation/Class B/8035.png,Class B,13,15
+validation/Class B/220.png,Class B,7,21
+validation/Class B/7088 (2).png,Class B,9,19
+validation/Class B/43.png,Class B,14,14
+validation/Class B/57.png,Class B,10,18
+validation/Class B/142.png,Class B,10,18
+validation/Class B/545 (2).png,Class B,14,14
+validation/Class B/432.png,Class B,11,17
+validation/Class B/356.png,Class B,12,16
+validation/Class B/430.png,Class B,10,18
+validation/Class B/381.png,Class B,7,21
+validation/Class B/96.png,Class B,13,15
+validation/Class B/140.png,Class B,8,20
+validation/Class B/69.png,Class B,9,19
+validation/Class B/354 (2).png,Class B,9,19
+validation/Class B/222.png,Class B,14,14
+validation/Class B/8036.png,Class B,7,21
+validation/Class B/319 (2).png,Class B,12,16
+validation/Class B/68.png,Class B,13,15
+validation/Class B/7028 (2).png,Class B,12,16
+validation/Class B/97.png,Class B,10,18
+validation/Class B/380.png,Class B,14,14
+validation/Class B/97 (2).png,Class B,9,19
+validation/Class B/431.png,Class B,9,19
+validation/Class B/8191.png,Class B,10,18
+validation/Class B/390.png,Class B,12,16
+validation/Class B/7088.png,Class B,12,16
+validation/Class B/7006 (2).png,Class B,13,15
+validation/Class B/541.png,Class B,13,15
+validation/Class B/355 (2).png,Class B,14,14
+validation/Class B/8033.png,Class B,11,17
+validation/Class B/554.png,Class B,9,19
+validation/Class B/308 (2).png,Class B,8,20
+validation/Class B/96 (2).png,Class B,10,18
+validation/Class B/457 (2).png,Class B,9,19
+validation/Class B/7089.png,Class B,13,15
+validation/Class B/391.png,Class B,12,16
+validation/Class B/393.png,Class B,9,19
+validation/Class B/542.png,Class B,14,14
+validation/Class B/556.png,Class B,7,21
+validation/Class B/219.png,Class B,8,20
+validation/Class B/557.png,Class B,12,16
+validation/Class B/7101.png,Class B,8,20
+validation/Class B/184.png,Class B,9,19
+validation/Class B/44 (2).png,Class B,9,19
+validation/Class D/412.png,Class D,27,1
+validation/Class D/189.png,Class D,25,3
+validation/Class D/9041.png,Class D,28,0
+validation/Class D/9055.png,Class D,26,2
+validation/Class D/214.png,Class D,24,4
+validation/Class D/298 (2).png,Class D,27,1
+validation/Class D/188.png,Class D,27,1
+validation/Class D/388.png,Class D,27,1
+validation/Class D/149.png,Class D,26,2
+validation/Class D/161.png,Class D,27,1
+validation/Class D/9056.png,Class D,26,2
+validation/Class D/9042.png,Class D,27,1
+validation/Class D/9122.png,Class D,23,5
+validation/Class D/9090 (2).png,Class D,25,3
+validation/Class D/9064 (2).png,Class D,26,2
+validation/Class D/558.png,Class D,24,4
+validation/Class D/9137.png,Class D,24,4
+validation/Class D/9123.png,Class D,27,1
+validation/Class D/148.png,Class D,24,4
+validation/Class D/8073 (3).png,Class D,23,5
+validation/Class D/438.png,Class D,26,2
+validation/Class D/9090.png,Class D,26,2
+validation/Class D/212.png,Class D,28,0
+validation/Class D/213.png,Class D,23,5
+validation/Class D/351 (2).png,Class D,28,0
+validation/Class D/9007 (2).png,Class D,28,0
+validation/Class D/159.png,Class D,24,4
+validation/Class D/9091.png,Class D,23,5
+validation/Class D/9043 (2).png,Class D,25,3
+validation/Class D/239.png,Class D,24,4
+validation/Class D/589.png,Class D,24,4
+validation/Class D/210.png,Class D,24,4
+validation/Class D/9092.png,Class D,27,1
+validation/Class D/317.png,Class D,23,5
+validation/Class D/539.png,Class D,23,5
+validation/Class D/505.png,Class D,28,0
+validation/Class D/504.png,Class D,23,5
+validation/Class D/538.png,Class D,24,4
+validation/Class D/302.png,Class D,24,4
+validation/Class D/9067 (2).png,Class D,28,0
+validation/Class D/300.png,Class D,26,2
+validation/Class D/9009.png,Class D,28,0
+validation/Class D/9169.png,Class D,24,4
+validation/Class D/507.png,Class D,25,3
+validation/Class D/9168.png,Class D,23,5
+validation/Class D/9116 (2).png,Class D,28,0
+validation/Class D/9034.png,Class D,26,2
+validation/Class D/9138 (2).png,Class D,27,1
+validation/Class D/9030.png,Class D,23,5
+validation/Class D/9144.png,Class D,27,1
+validation/Class D/503.png,Class D,25,3
+validation/Class D/9117 (2).png,Class D,23,5
+validation/Class D/9145.png,Class D,27,1
+validation/Class D/9192.png,Class D,23,5
+validation/Class D/9031.png,Class D,23,5
+validation/Class D/9165 (2).png,Class D,23,5
+validation/Class D/145 (2).png,Class D,27,1
+validation/Class D/9190.png,Class D,28,0
+validation/Class D/299.png,Class D,27,1
+validation/Class D/8072.png,Class D,25,3
+validation/Class D/9146.png,Class D,24,4
+validation/Class D/9191.png,Class D,25,3
+validation/Class D/450.png,Class D,25,3
+validation/Class D/256.png,Class D,24,4
+validation/Class D/9146 (2).png,Class D,25,3
+validation/Class D/257.png,Class D,23,5
+validation/Class D/9176.png,Class D,23,5
+validation/Class D/9189.png,Class D,25,3
+validation/Class D/486.png,Class D,28,0
+validation/Class D/451.png,Class D,26,2
+validation/Class D/9124 (2).png,Class D,25,3
+validation/Class D/36.png,Class D,24,4
+validation/Class D/255.png,Class D,28,0
+validation/Class D/297.png,Class D,23,5
+validation/Class D/254.png,Class D,23,5
+validation/Class D/37.png,Class D,23,5
+validation/Class D/485.png,Class D,26,2
+validation/Class D/318.png,Class D,25,3
+validation/Class D/8131.png,Class D,25,3
+validation/Class D/255 (2).png,Class D,26,2
+validation/Class D/9011.png,Class D,23,5
+validation/Class D/8020 (2).png,Class D,27,1
+validation/Class D/9019 (2).png,Class D,23,5
+validation/Class D/9165.png,Class D,28,0
+validation/Class D/537.png,Class D,25,3
+validation/Class D/9010.png,Class D,28,0
+validation/Class D/9168 (2).png,Class D,24,4
+validation/Class D/9012.png,Class D,24,4
+validation/Class D/9166.png,Class D,24,4
+validation/Class D/8133 (2).png,Class D,26,2
+validation/Class D/508.png,Class D,26,2
+validation/Class D/9147 (2).png,Class D,25,3
+validation/Class D/9007.png,Class D,23,5
+validation/Class D/454.png,Class D,23,5
+validation/Class D/433.png,Class D,27,1
+validation/Class D/355.png,Class D,26,2
+validation/Class D/341.png,Class D,27,1
+validation/Class D/396.png,Class D,23,5
+validation/Class D/143.png,Class D,24,4
+validation/Class D/257 (2).png,Class D,26,2
+validation/Class D/8020.png,Class D,28,0
+validation/Class D/590.png,Class D,25,3
+validation/Class D/591.png,Class D,26,2
+validation/Class D/37 (2).png,Class D,28,0
+validation/Class D/9101.png,Class D,27,1
+validation/Class D/9115.png,Class D,24,4
+validation/Class D/9034 (2).png,Class D,28,0
+validation/Class D/57.png,Class D,27,1
+validation/Class D/397.png,Class D,24,4
+validation/Class D/8141.png,Class D,28,0
+validation/Class D/342.png,Class D,23,5
+validation/Class D/395.png,Class D,25,3
+validation/Class D/9088.png,Class D,26,2
+validation/Class D/55.png,Class D,24,4
+validation/Class D/586.png,Class D,26,2
+validation/Class D/8022.png,Class D,26,2
+validation/Class D/545.png,Class D,26,2
+validation/Class D/9116.png,Class D,26,2
+validation/Class D/9089.png,Class D,25,3
+validation/Class D/394.png,Class D,26,2
+validation/Class D/353.png,Class D,24,4
+validation/Class D/8146.png,Class D,26,2
+validation/Class D/145.png,Class D,24,4
+validation/Class D/78.png,Class D,24,4
+validation/Class D/9066.png,Class D,26,2
+validation/Class D/50.png,Class D,23,5
+validation/Class D/540.png,Class D,27,1
+validation/Class D/9067.png,Class D,27,1
+validation/Class D/79.png,Class D,24,4
+validation/Class D/391.png,Class D,23,5
+validation/Class D/434.png,Class D,28,0
+validation/Class D/350.png,Class D,26,2
+validation/Class D/542.png,Class D,27,1
+validation/Class D/9064.png,Class D,23,5
+validation/Class D/190.png,Class D,26,2
+validation/Class D/147.png,Class D,24,4
+validation/Class D/8144.png,Class D,23,5
+validation/Class D/351.png,Class D,24,4
+validation/Class D/437.png,Class D,24,4
+validation/Class C/8161.png,Class C,17,11
+validation/Class C/610.png,Class C,21,7
+validation/Class C/8036 (2).png,Class C,19,9
+validation/Class C/231 (2).png,Class C,21,7
+validation/Class C/9040.png,Class C,18,10
+validation/Class C/8054 (2).png,Class C,16,12
+validation/Class C/177.png,Class C,21,7
+validation/Class C/8044 (2).png,Class C,18,10
+validation/Class C/8160.png,Class C,19,9
+validation/Class C/8012 - copia.png,Class C,22,6
+validation/Class C/9095.png,Class C,18,10
+validation/Class C/60.png,Class C,21,7
+validation/Class C/74.png,Class C,17,11
+validation/Class C/8016.png,Class C,21,7
+validation/Class C/8003.png,Class C,15,13
+validation/Class C/9123.png,Class C,16,12
+validation/Class C/75.png,Class C,20,8
+validation/Class C/61.png,Class C,22,6
+validation/Class C/400.png,Class C,17,11
+validation/Class C/8073 (2).png,Class C,22,6
+validation/Class C/8167.png,Class C,17,11
+validation/Class C/574.png,Class C,20,8
+validation/Class C/8013.png,Class C,21,7
+validation/Class C/8012.png,Class C,17,11
+validation/Class C/333 (2).png,Class C,19,9
+validation/Class C/58.png,Class C,17,11
+validation/Class C/398.png,Class C,15,13
+validation/Class C/8166.png,Class C,18,10
+validation/Class C/429.png,Class C,15,13
+validation/Class C/615.png,Class C,18,10
+validation/Class C/173.png,Class C,22,6
+validation/Class C/9118.png,Class C,15,13
+validation/Class C/588.png,Class C,18,10
+validation/Class C/9125.png,Class C,16,12
+validation/Class C/9022.png,Class C,15,13
+validation/Class C/9195.png,Class C,20,8
+validation/Class C/8071 (2).png,Class C,21,7
+validation/Class C/8109 (2).png,Class C,15,13
+validation/Class C/433 (2).png,Class C,19,9
+validation/Class C/510.png,Class C,15,13
+validation/Class C/74 (2).png,Class C,16,12
+validation/Class C/8012 (3).png,Class C,19,9
+validation/Class C/9196.png,Class C,19,9
+validation/Class C/9197.png,Class C,16,12
+validation/Class C/8035 (2).png,Class C,17,11
+validation/Class C/301.png,Class C,21,7
+validation/Class C/9024.png,Class C,17,11
+validation/Class C/8070.png,Class C,15,13
+validation/Class C/8058.png,Class C,17,11
+validation/Class C/8071.png,Class C,16,12
+validation/Class C/9192.png,Class C,21,7
+validation/Class C/489.png,Class C,15,13
+validation/Class C/8012 (2).png,Class C,18,10
+validation/Class C/8107.png,Class C,18,10
+validation/Class C/9033.png,Class C,15,13
+validation/Class C/8066.png,Class C,20,8
+validation/Class C/9032.png,Class C,20,8
+validation/Class C/9026.png,Class C,19,9
+validation/Class C/330 (2).png,Class C,17,11
+validation/Class C/307.png,Class C,17,11
+validation/Class C/493.png,Class C,22,6
+validation/Class C/8038 (2).png,Class C,22,6
+validation/Class C/9188.png,Class C,15,13
+validation/Class C/9163.png,Class C,16,12
+validation/Class C/8056.png,Class C,15,13
+validation/Class C/8108.png,Class C,18,10
+validation/Class C/490.png,Class C,18,10
+validation/Class C/8120.png,Class C,21,7
+validation/Class C/8040.png,Class C,15,13
+validation/Class C/8054.png,Class C,18,10
+validation/Class C/8069.png,Class C,16,12
+validation/Class C/240.png,Class C,22,6
+validation/Class C/9161.png,Class C,18,10
+validation/Class C/136.png,Class C,19,9
+validation/Class C/491.png,Class C,19,9
+validation/Class C/8121.png,Class C,21,7
+validation/Class C/8183 (2).png,Class C,17,11
+validation/Class C/330.png,Class C,22,6
+validation/Class C/8119.png,Class C,19,9
+validation/Class C/132.png,Class C,15,13
+validation/Class C/8051.png,Class C,15,13
+validation/Class C/331.png,Class C,22,6
+validation/Class C/509.png,Class C,18,10
+validation/Class C/8052.png,Class C,22,6
+validation/Class C/252.png,Class C,18,10
+validation/Class C/332.png,Class C,22,6
+validation/Class C/8183.png,Class C,19,9
+validation/Class C/427.png,Class C,17,11
+validation/Class C/143.png,Class C,22,6
+validation/Class C/9060.png,Class C,18,10
+validation/Class C/56.png,Class C,15,13
+validation/Class C/9100.png,Class C,21,7
+validation/Class C/584.png,Class C,18,10
+validation/Class C/8034.png,Class C,19,9
+validation/Class C/8035.png,Class C,22,6
+validation/Class C/220.png,Class C,21,7
+validation/Class C/8182.png,Class C,22,6
+validation/Class C/8059 (2).png,Class C,17,11
+validation/Class C/9103.png,Class C,21,7
+validation/Class C/511 (2).png,Class C,18,10
+validation/Class C/236.png,Class C,19,9
+validation/Class C/587.png,Class C,21,7
+validation/Class C/592.png,Class C,21,7
+validation/Class C/394.png,Class C,21,7
+validation/Class C/425.png,Class C,15,13
+validation/Class C/8120 (2).png,Class C,22,6
+validation/Class C/9099.png,Class C,22,6
+validation/Class C/232.png,Class C,21,7
+validation/Class C/8067 (2).png,Class C,19,9
+validation/Class C/152.png,Class C,16,12
+validation/Class C/146.png,Class C,17,11
+validation/Class C/230.png,Class C,18,10
+validation/Class A/168 (2).png,Class A,5,23
+validation/Class A/604.png,Class A,5,23
+validation/Class A/77.png,Class A,5,23
+validation/Class A/304 (2).png,Class A,1,27
+validation/Class A/429 (2).png,Class A,5,23
+validation/Class A/298 (2).png,Class A,4,24
+validation/Class A/771.png,Class A,6,22
+validation/Class A/995.png,Class A,4,24
+validation/Class A/76.png,Class A,4,24
+validation/Class A/177.png,Class A,5,23
+validation/Class A/149.png,Class A,5,23
+validation/Class A/430 (2).png,Class A,3,25
+validation/Class A/74.png,Class A,4,24
+validation/Class A/7047.png,Class A,2,26
+validation/Class A/997.png,Class A,5,23
+validation/Class A/217 (2).png,Class A,4,24
+validation/Class A/217.png,Class A,5,23
+validation/Class A/322 (2).png,Class A,1,27
+validation/Class A/564.png,Class A,4,24
+validation/Class A/77 (2).png,Class A,6,22
+validation/Class A/996.png,Class A,2,26
+validation/Class A/49.png,Class A,2,26
+validation/Class A/7046.png,Class A,1,27
+validation/Class A/75.png,Class A,2,26
+validation/Class A/228 (2).png,Class A,3,25
+validation/Class A/400.png,Class A,6,22
+validation/Class A/428.png,Class A,6,22
+validation/Class A/170.png,Class A,6,22
+validation/Class A/65.png,Class A,5,23
+validation/Class A/8007.png,Class A,6,22
+validation/Class A/76 (2).png,Class A,6,22
+validation/Class A/8006.png,Class A,6,22
+validation/Class A/504 (2).png,Class A,2,26
+validation/Class A/401.png,Class A,1,27
+validation/Class A/167.png,Class A,1,27
+validation/Class A/532 (2).png,Class A,1,27
+validation/Class A/826.png,Class A,1,27
+validation/Class A/749.png,Class A,6,22
+validation/Class A/563.png,Class A,2,26
+validation/Class A/7046 (2).png,Class A,5,23
+validation/Class A/8004.png,Class A,5,23
+validation/Class A/1008.png,Class A,5,23
+validation/Class A/1009.png,Class A,3,25
+validation/Class A/204.png,Class A,2,26
+validation/Class A/562.png,Class A,3,25
+validation/Class A/7083.png,Class A,5,23
+validation/Class A/98.png,Class A,4,24
+validation/Class A/402.png,Class A,1,27
+validation/Class A/370.png,Class A,6,22
+validation/Class A/303.png,Class A,5,23
+validation/Class A/39 (2).png,Class A,5,23
+validation/Class A/129.png,Class A,3,25
+validation/Class A/883.png,Class A,5,23
+validation/Class A/854.png,Class A,4,24
+validation/Class A/707.png,Class A,5,23
+validation/Class A/100 (2).png,Class A,4,24
+validation/Class A/7153.png,Class A,1,27
+validation/Class A/505.png,Class A,3,25
+validation/Class A/277.png,Class A,6,22
+validation/Class A/8076.png,Class A,3,25
+validation/Class A/8077.png,Class A,4,24
+validation/Class A/276.png,Class A,1,27
+validation/Class A/504.png,Class A,4,24
+validation/Class A/7152.png,Class A,4,24
+validation/Class A/706.png,Class A,4,24
+validation/Class A/7185.png,Class A,1,27
+validation/Class A/855.png,Class A,3,25
+validation/Class A/196 (2).png,Class A,3,25
+validation/Class A/100.png,Class A,5,23
+validation/Class A/666.png,Class A,1,27
+validation/Class A/321 (2).png,Class A,5,23
+validation/Class A/664.png,Class A,1,27
+validation/Class A/843.png,Class A,5,23
+validation/Class A/857.png,Class A,4,24
+validation/Class A/17.png,Class A,6,22
+validation/Class A/738.png,Class A,4,24
+validation/Class A/7187.png,Class A,1,27
+validation/Class A/20 (2).png,Class A,6,22
+validation/Class A/274.png,Class A,2,26
+validation/Class A/512.png,Class A,1,27
+validation/Class A/8074.png,Class A,3,25
+validation/Class A/7113 (2).png,Class A,3,25
+validation/Class A/275.png,Class A,1,27
+validation/Class A/513.png,Class A,3,25
+validation/Class A/705.png,Class A,4,24
+validation/Class A/739.png,Class A,1,27
+validation/Class A/856.png,Class A,3,25
+validation/Class A/665.png,Class A,1,27
+validation/Class A/315.png,Class A,6,22
+validation/Class A/885.png,Class A,4,24
+validation/Class A/553 (2).png,Class A,2,26
+validation/Class A/7035.png,Class A,2,26
+validation/Class A/98 (2).png,Class A,6,22
+validation/Class A/932.png,Class A,1,27
+validation/Class A/503.png,Class A,3,25
+validation/Class A/8071.png,Class A,1,27
+validation/Class A/7140.png,Class A,3,25
+validation/Class A/380 (2).png,Class A,5,23
+validation/Class A/7020.png,Class A,1,27
+validation/Class A/884.png,Class A,6,22
+validation/Class A/7008 (2).png,Class A,3,25
+validation/Class A/304.png,Class A,4,24
+validation/Class A/205 (2).png,Class A,5,23
+validation/Class A/460.png,Class A,6,22
+validation/Class A/450 (2).png,Class A,4,24
+validation/Class A/662.png,Class A,1,27
+validation/Class A/886.png,Class A,6,22
+validation/Class A/39.png,Class A,5,23
+validation/Class A/7022.png,Class A,6,22
+validation/Class A/845.png,Class A,6,22
+validation/Class A/7142.png,Class A,6,22
+validation/Class A/931.png,Class A,4,24
+validation/Class A/7011 (2).png,Class A,6,22
+validation/Class A/918.png,Class A,5,23
+validation/Class A/844.png,Class A,5,23
+validation/Class A/38.png,Class A,6,22
+validation/Class A/7037.png,Class A,6,22
+validation/Class A/887.png,Class A,6,22
+validation/Class A/663.png,Class A,3,25
+validation/Class A/677.png,Class A,5,23
+validation/Class A/197 (2).png,Class A,3,25
+validation/Class A/461.png,Class A,1,27
+validation/Class A/475.png,Class A,6,22
+validation/Class A/450.png,Class A,1,27
+validation/Class A/322.png,Class A,5,23
+validation/Class A/108.png,Class A,6,22
+validation/Class A/149 (2).png,Class A,4,24
+validation/Class A/408 (2).png,Class A,6,22
+validation/Class A/915.png,Class A,4,24
+validation/Class A/929.png,Class A,3,25
+validation/Class A/8080.png,Class A,2,26
+validation/Class A/295.png,Class A,3,25
+validation/Class A/531.png,Class A,6,22
+validation/Class A/928.png,Class A,5,23
+validation/Class A/7007.png,Class A,3,25
+validation/Class A/20.png,Class A,4,24
+validation/Class A/121.png,Class A,5,23
+validation/Class A/109.png,Class A,6,22
+validation/Class A/486.png,Class A,1,27
+validation/Class A/323.png,Class A,5,23
+validation/Class A/451.png,Class A,1,27
+validation/Class A/132 (2).png,Class A,6,22
+validation/Class A/321.png,Class A,6,22
+validation/Class A/484.png,Class A,3,25
+validation/Class A/254 (2).png,Class A,5,23
+validation/Class A/123.png,Class A,2,26
+validation/Class A/7011.png,Class A,2,26
+validation/Class A/533.png,Class A,4,24
+validation/Class A/463 (2).png,Class A,6,22
+validation/Class A/296.png,Class A,1,27
+validation/Class A/150 (2).png,Class A,4,24
+validation/Class A/297.png,Class A,4,24
+validation/Class A/268.png,Class A,4,24
+validation/Class A/917.png,Class A,2,26
+validation/Class A/7010.png,Class A,2,26
+validation/Class A/888.png,Class A,3,25
+validation/Class A/122.png,Class A,6,22
+validation/Class A/491.png,Class A,1,27
+validation/Class A/452.png,Class A,2,26
+validation/Class A/324.png,Class A,3,25
+validation/Class A/668.png,Class A,2,26
+validation/Class A/400 (2).png,Class A,3,25
+validation/Class A/27.png,Class A,6,22
+validation/Class A/708.png,Class A,5,23
+validation/Class A/227 (2).png,Class A,6,22
+validation/Class A/7174.png,Class A,4,24
+validation/Class A/7174 (2).png,Class A,1,27
+validation/Class A/278.png,Class A,1,27
+validation/Class A/8078.png,Class A,4,24
+validation/Class A/245.png,Class A,2,26
+validation/Class A/47 (2).png,Class A,4,24
+validation/Class A/735.png,Class A,4,24
+validation/Class A/696.png,Class A,6,22
+validation/Class A/899.png,Class A,1,27
+validation/Class A/513 (2).png,Class A,5,23
+validation/Class A/482.png,Class A,2,26
+validation/Class A/131.png,Class A,1,27
+validation/Class A/694.png,Class A,6,22
+validation/Class A/18.png,Class A,1,27
+validation/Class A/737.png,Class A,3,25
+validation/Class A/7077 (2).png,Class A,3,25
+validation/Class A/247.png,Class A,2,26
+validation/Class A/253.png,Class A,3,25
+validation/Class A/535.png,Class A,3,25
+validation/Class A/7142 (2).png,Class A,4,24
+validation/Class A/252.png,Class A,3,25
+validation/Class A/534.png,Class A,2,26
+validation/Class A/246.png,Class A,3,25
+validation/Class A/7083 (2).png,Class A,6,22
+validation/Class A/736.png,Class A,5,23
+validation/Class A/379 (2).png,Class A,2,26
+validation/Class A/19.png,Class A,1,27
+validation/Class A/426 (2).png,Class A,2,26
+validation/Class A/695.png,Class A,4,24
+validation/Class A/130.png,Class A,1,27
+validation/Class A/7048 (2).png,Class A,1,27
+validation/Class A/483.png,Class A,1,27
+validation/Class A/355.png,Class A,5,23
+validation/Class A/427.png,Class A,5,23
+validation/Class A/625.png,Class A,3,25
+validation/Class A/7114 (2).png,Class A,5,23
+validation/Class A/7139.png,Class A,4,24
+validation/Class A/962.png,Class A,6,22
+validation/Class A/247 (2).png,Class A,3,25
+validation/Class A/1010.png,Class A,6,22
+validation/Class A/590.png,Class A,2,26
+validation/Class A/591.png,Class A,3,25
+validation/Class A/552.png,Class A,3,25
+validation/Class A/27 (2).png,Class A,6,22
+validation/Class A/195.png,Class A,6,22
+validation/Class A/624.png,Class A,6,22
+validation/Class A/278 (2).png,Class A,3,25
+validation/Class A/426.png,Class A,6,22
+validation/Class A/354.png,Class A,4,24
+validation/Class A/381.png,Class A,6,22
+validation/Class A/7099.png,Class A,1,27
+validation/Class A/168.png,Class A,3,25
+validation/Class A/815.png,Class A,5,23
+validation/Class A/197.png,Class A,4,24
+validation/Class A/7072.png,Class A,5,23
+validation/Class A/975.png,Class A,1,27
+validation/Class A/961.png,Class A,3,25
+validation/Class A/7112.png,Class A,2,26
+validation/Class A/1007.png,Class A,4,24
+validation/Class A/593.png,Class A,3,25
+validation/Class A/592.png,Class A,1,27
+validation/Class A/579.png,Class A,6,22
+validation/Class A/7113.png,Class A,5,23
+validation/Class A/960.png,Class A,3,25
+validation/Class A/974.png,Class A,6,22
+validation/Class A/7073.png,Class A,6,22
+validation/Class A/196.png,Class A,2,26
+validation/Class A/814.png,Class A,2,26
+validation/Class A/7140 (2).png,Class A,2,26
+validation/Class A/97.png,Class A,3,25
+validation/Class A/169.png,Class A,2,26
+validation/Class A/380.png,Class A,5,23
+validation/Class A/343.png,Class A,3,25
+validation/Class A/419.png,Class A,1,27
+validation/Class A/353.png,Class A,4,24
+validation/Class A/562 (2).png,Class A,2,26
+validation/Class A/409.png,Class A,1,27
+validation/Class A/623.png,Class A,4,24
+validation/Class A/637.png,Class A,4,24
+validation/Class A/810.png,Class A,3,25
+validation/Class A/50.png,Class A,2,26
+validation/Class A/780.png,Class A,1,27
+validation/Class A/964.png,Class A,2,26
+validation/Class A/541.png,Class A,6,22
+validation/Class A/227.png,Class A,4,24
+validation/Class A/226.png,Class A,4,24
+validation/Class A/554.png,Class A,2,26
+validation/Class A/959.png,Class A,1,27
+validation/Class A/781.png,Class A,5,23
+validation/Class A/811.png,Class A,3,25
+validation/Class A/7076.png,Class A,1,27
+validation/Class A/178.png,Class A,3,25
+validation/Class A/150.png,Class A,3,25
+validation/Class A/636.png,Class A,4,24
+validation/Class A/408.png,Class A,6,22
+validation/Class A/346.png,Class A,2,26
+validation/Class A/344.png,Class A,4,24
+validation/Class A/378.png,Class A,4,24
+validation/Class A/634.png,Class A,3,25
+validation/Class A/142 (2).png,Class A,2,26
+validation/Class A/146.png,Class A,2,26
+validation/Class A/813.png,Class A,6,22
+validation/Class A/7048.png,Class A,6,22
+validation/Class A/47.png,Class A,3,25
+validation/Class A/740.png,Class A,2,26
+validation/Class A/768.png,Class A,5,23
+validation/Class A/783.png,Class A,2,26
+validation/Class A/7114.png,Class A,2,26
+validation/Class A/218.png,Class A,1,27
+validation/Class A/526 (2).png,Class A,5,23
+validation/Class A/594.png,Class A,6,22
+validation/Class A/7099 (2).png,Class A,2,26
+validation/Class A/782.png,Class A,6,22
+validation/Class A/769.png,Class A,5,23
+validation/Class A/812.png,Class A,6,22
+validation/Class A/485 (2).png,Class A,3,25
+validation/Class A/7075.png,Class A,6,22
+validation/Class A/147.png,Class A,4,24
+validation/Class A/635.png,Class A,1,27
+validation/Class A/379.png,Class A,6,22
+validation/Class A/345.png,Class A,5,23
