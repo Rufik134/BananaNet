@@ -125,6 +125,21 @@ Upload a banana image, click **Analyze Banana**, and see ripeness & TTL.
 python predict.py --image path_to_image.jpg
 ```
 
+### 4. Optional
+If you use python3 and pip3 instead of 
+```bash
+pip install -r requirements.txt
+```
+you can use 
+```bash
+pip3 install -r requirements.txt
+```
+or
+
+```bash
+python3 server.py
+```
+
 ---
 
 ## 🔍 Requirements
