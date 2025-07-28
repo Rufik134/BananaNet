@@ -149,16 +149,6 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Future Improvements
-
-- Enhance TTL regression with attention mechanisms
-- Convert model to ONNX / TensorFlow Lite for mobile deployment
-- Add multi‑fruit detection and total‑cart estimation
-- Replace simple ResNet check with an object detection model (e.g., YOLO)
-- Implement real‑time camera feed support
-
----
-
 ## 📷 Example Output
 
 ```text
