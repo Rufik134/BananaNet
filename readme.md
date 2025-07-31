@@ -6,7 +6,7 @@ This project is a complete pipeline for detecting bananas in images, classifying
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Multi‑class Classification:** Predicts ripeness stage (4 classes: A–D)
 - **Regression:** Predicts TTL (number of days before expiration)
@@ -57,7 +57,7 @@ A custom convolutional neural network with a shared feature extractor and dual h
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 - **Source:** Custom-curated banana images (open‑source repository)
 - **Folder layout:**
@@ -83,7 +83,7 @@ A custom convolutional neural network with a shared feature extractor and dual h
 
 ---
 
-## 📊 Training Summary
+##  Training Summary
 
 | Metric                  | Value        |
 | ----------------------- | ------------ |
@@ -100,7 +100,7 @@ You can also view the learning‑rate schedule plot saved as `learning_rate_sche
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -171,17 +171,17 @@ pip install -r requirements.txt
 
 ---
 
-## 📷 Example Output
+##  Example Output
 
 ```text
-🔍 Detected object: banana (99.2%)
-🍌 Ripeness: Class B (Ripe)
-⏳ Estimated days until expiration: 4.87 days
+ Detected object: banana (99.2%)
+ Ripeness: Class B (Ripe)
+ Estimated days until expiration: 4.87 days
 ```
 
 ---
 
-## ✨ Contributors
+##  Contributors
 
 - **Rufat Abdulzada** — Project Author and Developer\
   Master’s Candidate, Computer Science\
@@ -189,7 +189,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 License
+##  License
 
 Released under the MIT License.
 
